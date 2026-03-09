@@ -1,3 +1,0 @@
-44d88612fea8a8f36de82e1278abb02f,malicious
-d41d8cd98f00b204e9800998ecf8427e,clean
-e2fc714c4727ee9395f324cd2e7f331f,unknown
