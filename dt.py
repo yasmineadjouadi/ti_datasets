@@ -62,7 +62,7 @@ for h in hashes:
     })
 
     print(h, "→", malware_type)
-    time.sleep(SLEEP_API)  # respecter l'API VirusTotal
+    time.sleep(SLEEP_API)  
 
 
 with open(OUTPUT_FILE, "w") as f:
