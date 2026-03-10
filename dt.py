@@ -10,7 +10,7 @@ API_KEY = "042268ef6f012e4b8edb42f681e047bf1d67372aab5f12c8833d1a9496cfe2f0"
 OUTPUT_FILE = "ti_datasets_hash.json"
 SLEEP_API = 15  
 
-def call_function_virustotal(hash_value):
+def function_virustotal(hash_value):
     url = f"https://www.virustotal.com/api/v3/files/{hash_value}"
     headers = {"x-apikey": API_KEY}
 
@@ -48,7 +48,7 @@ for h in hashes:
     if not h:
         continue
 
-    malware_type = call_function_virustotal(h)
+    malware_type = function_virustotal(h)
 
    
     if malware_type in ["clean", "unknown"]:
