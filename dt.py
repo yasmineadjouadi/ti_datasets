@@ -3,10 +3,9 @@ import json
 import random
 import time
 
-
 URL = "https://raw.githubusercontent.com/romainmarcoux/malicious-hash/refs/heads/main/full-hash-sha256-aa.txt"
-LIMITS = 10
-API_KEY = "042268ef6f012e4b8edb42f681e047bf1d67372aab5f12c8833d1a9496cfe2f0" 
+LIMITS = 500
+API_KEY = "afaa2f23aff1727b8625ab49c95d6c603f1a4d6f33040308e74711c0099b1b0d" 
 OUTPUT_FILE = "ti_datasets_hash.json"
 SLEEP_API = 15  
 
@@ -50,11 +49,11 @@ for h in hashes:
 
     malware_type = function_virustotal(h)
 
-   
+    
     if malware_type in ["clean", "unknown"]:
         continue
 
-    
+   
     results.append({
         "type": "hash",
         "value": h,
@@ -62,7 +61,7 @@ for h in hashes:
     })
 
     print(h, "→", malware_type)
-    time.sleep(SLEEP_API)  
+    time.sleep(SLEEP_API) 
 
 
 with open(OUTPUT_FILE, "w") as f:
