@@ -2233,5 +2233,959 @@
         "type": "hash",
         "value": "4fad4215a12ef6b677ee757b7e7f81c61b2d7d3557ea15919165fa735f8d8769",
         "Threat": "trojan.malgent/misc"
-    }
+    },
+
+    {
+        "type": "hash",
+        "value": "2d49b935c8be0b3436b9afda72f8b61736e8245b62d4047d25f75f27c39a7249",
+        "Threat": "trojan.gafgyt/mirai"
+    },
+    {
+        "type": "hash",
+        "value": "673930748a621867f5775b0cddbb0ca72308586ffbea3664f176a691d7f001cd",
+        "Threat": "trojan.guloader/nsis"
+    },
+    {
+        "type": "hash",
+        "value": "cf098f81d68387d3491794c4f87c2812f5c0af3c5e7262cf90b40882975c930c",
+        "Threat": "trojan.tesre/xworm"
+    },
+    {
+        "type": "hash",
+        "value": "17e270cb1e930e99de2f7e9865edccc6c69d3315d9f4bc217727e98560083674",
+        "Threat": "trojan.rhadamanthys/adgf"
+    },
+    {
+        "type": "hash",
+        "value": "19b2c1bd0e74e7bcfaa19a0e86fba12abb65a7e8b322f978a9985fe7ac52b656",
+        "Threat": "trojan.obfuse/snakekeylogger"
+    },
+    {
+        "type": "hash",
+        "value": "55495dfe885a78fe26340c4d1b99282293f8f9e0501ebc642ddd6b7d6bc196d6",
+        "Threat": "trojan.mirai/r002c0da826"
+    },
+    {
+        "type": "hash",
+        "value": "3e95cf58ccc9b32780f3bcf970f492d6f8eb4562e162e6f1b0759f53f6b6c978",
+        "Threat": "trojan.alien/powershell"
+    },
+    {
+        "type": "hash",
+        "value": "ea7f60647febe6551631057c65836c321d6bb9f6fc2782f98b0a5a1e2b099016",
+        "Threat": "trojan.malex"
+    },
+    {
+        "type": "hash",
+        "value": "42aa8d13849dba889ff65c323b27d7b14a442909471b7f366b0512803e84c260",
+        "Threat": "trojan.rhadamanthys"
+    },
+    {
+        "type": "hash",
+        "value": "70239684f01e37692087c05f6f355daae3bdcdbc4bfa2fcb786dbf8ddf1d2966",
+        "Threat": "trojan.sload/remotetemplateinj"
+    },
+    {
+        "type": "hash",
+        "value": "a71dba9cd1e4632108ad6bab379bb29dd31119e30572ff31628df096354fa998",
+        "Threat": "trojan.msil/etset"
+    },
+    {
+        "type": "hash",
+        "value": "70057cefbc9a8a4fc7fafdfce29610349ea8fc188933560d803ca3a95230368a",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "e15dea238f9533c94e0de7ac0806787ca7c5e1c7563bbb6e802f0aa7e2a2937b",
+        "Threat": "trojan.mirai/bonb"
+    },
+    {
+        "type": "hash",
+        "value": "77a3da4cedb91ae9c3a83e4dade09e05caa76acb1db7c5b20c257f1ec0951303",
+        "Threat": "trojan.offloader/nsis"
+    },
+    {
+        "type": "hash",
+        "value": "7250e3ecf491873530eac08b1983187b3c84c1269089c4b3ba836af7f7d9d43a",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "a51f01ef21c0e69bfa82fe7351c057cdeeb76b2bae692552260db9551e2a9c73",
+        "Threat": "trojan.asyncrat/msil"
+    },
+    {
+        "type": "hash",
+        "value": "8f857c499e81f3189de5a3da8355e8afc9c15e92f5a415777f125eb9bae31268",
+        "Threat": "trojan.tedy/remcos"
+    },
+    {
+        "type": "hash",
+        "value": "82351c3d62cf110b0da95652d363fe6160d976a2df853c29c6bf4847b5c5d774",
+        "Threat": "trojan.mirai/ddos"
+    },
+    
+    {
+        "type": "hash",
+        "value": "bace1eeb1b597604a1fcdba2f4aa889c6e4e2a03d7ab64e378c39b09c0e05ee3",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "2a52c390ecf6e3e27627a376ad60e05e22d6d796bbf392e1ee2f014cf09077fa",
+        "Threat": "trojan.mirai/bonb"
+    },
+    {
+        "type": "hash",
+        "value": "ee78cfa85e8f0c7864114c7c32b55d132d74a33f56e05979541b30c05c34edcd",
+        "Threat": "trojan.neoreklami/agentb"
+    },
+    {
+        "type": "hash",
+        "value": "c3db0f035cf37feecce89bbad6c84be4e6c8385b7799b464651681dbd2a0db85",
+        "Threat": "trojan.shellcode"
+    },
+    {
+        "type": "hash",
+        "value": "72cf8ed16f27a07225e88c4871a7e9cda0b089c086e3a84e40cda6704cabedb2",
+        "Threat": "trojan.vidar/zusy"
+    },
+    {
+        "type": "hash",
+        "value": "1d09a37297736b5582a28a3fbb90d9553ba1e9f4ec95672605914708d17156a8",
+        "Threat": "trojan.chromeinject/vmprotect"
+    },
+    {
+        "type": "hash",
+        "value": "c0b7aa1c185712a2961d05030edfb9e0f80b8a0d3eec93d5621bca2de805348a",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "1f95f7d6ce13690766f0d14ed0eeef4ba9906e525e2ce3abc19f2bae128765cc",
+        "Threat": "trojan.tedy/python"
+    },
+    {
+        "type": "hash",
+        "value": "ae167b38845f3a20580b718d354d26089c4ac2de2ab6541b37d65e2b340b1cf3",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "ee89d60a48e3e3ee8a51ec1714287fbdc6f3534a5d7f94774c65072bf8106f32",
+        "Threat": "trojan.mirai/r002c0dai26"
+    },
+    {
+        "type": "hash",
+        "value": "8db18085d1d35dccddd21aec325123dfef8b8cb7dc6721e50366c14df8e5a947",
+        "Threat": "trojan.genie/androm"
+    },
+    {
+        "type": "hash",
+        "value": "64e3972234d9b7b0ed463da11209e7568cdc80f3610165f5523ac5efe1136ce0",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "a502021056000926fb478aeab971fb7c260ab6e2296c9650b1e8a2fc1b0acc79",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "2868ed13ec5af26c1ecffeaeddad4739a236cf7af4595ade3c054866cf047750",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "9f05425478d03e4a2fd5b990fe5625d93c468b80a3880bb52475aa7561548582",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "07762b2af252bea0117358449b7a4d85101454d00a4c265bfd3ce066b21da568",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "9dca709cad16a9c064c248d3374d32b5c4fe43263e9782e837656659b822c7c7",
+        "Threat": "adware.connectwise"
+    },
+    {
+        "type": "hash",
+        "value": "c73e959ce6ae664ac2ec1e290e69cb5a69c00a2c10cd245c2d984b7948ac7981",
+        "Threat": "trojan.runner"
+    },
+    {
+        "type": "hash",
+        "value": "864a190161bf8bc4b059881f142dba809eedceb9456cd31e7433dfcbffa3fa8e",
+        "Threat": "trojan.mirai/bonb"
+    },
+{
+        "type": "hash",
+        "value": "19b2a7efbdd71b4c79d15d2b32fd9330e3ae7336f72d4c3fe4b612f86030663b",
+        "Threat": "trojan.darkkomet/fynloski"
+    },
+    {
+        "type": "hash",
+        "value": "9899fe72ae403fa3a68ea803f410e50db67918a96a080bcebe3d947148d81cd8",
+        "Threat": "trojan.cryxos/asyncrat"
+    },
+    {
+        "type": "hash",
+        "value": "9bf36a4298c603bff2bf5c3264f29d21793241d202ad4cbe6c17a6fd25df06ba",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "1b6562683318ce7d204e4da4af3dd03d8600193667ebfd22e25af338dedf4bdf",
+        "Threat": "trojan.gosys/mofksys"
+    },
+    {
+        "type": "hash",
+        "value": "6ec1b0fd82538d645ea997da998b822cf8cf87562a8487253447461c891009c0",
+        "Threat": "trojan.mirai"
+    },
+    {
+        "type": "hash",
+        "value": "d81520fb7e6a4b6b91816ed544ae14e1064c8903f9fb2c07f15d7c7f248aeb47",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "a3e3e8d4e7db5af4f1248478f65d71d9d826a12cb9b48e2d6eebd8227ae13792",
+        "Threat": "trojan.loader"
+    },
+    {
+        "type": "hash",
+        "value": "afe1c4efd038e5764981deccc0ad94010edc7935f6a211b3e6d8edfc9948281f",
+        "Threat": "trojan.mirai/qzpgq"
+    },
+    {
+        "type": "hash",
+        "value": "d70600f0e4367e6e3e07f7b965b654e5bfbcb0afbccfe0f6a9a8d9f69c7061a3",
+        "Threat": "trojan.encoded/plugx"
+    },
+    {
+        "type": "hash",
+        "value": "861e5f42dd1864548196963bfbabe7fc6940bf0b0b7681e8675a41d4ea99bd4e",
+        "Threat": "trojan.quasar/msil"
+    },
+    {
+        "type": "hash",
+        "value": "5c85a0fe230d351b35da364c797cc95557f5dcceec034eb648e1805237c7203b",
+        "Threat": "trojan.alien/darkme"
+    },
+    {
+        "type": "hash",
+        "value": "b20359d275dd556b8a25531dd2acc933c945e989855fdc881c438cfb0cb471a0",
+        "Threat": "trojan.msil/bplogger"
+    },
+    {
+        "type": "hash",
+        "value": "158a7318ccb3208b29e9d5084d1869c17e215db29dcd93857a0bd1edb100fd01",
+        "Threat": "trojan.gafgyt/ddos"
+    },
+     {
+        "type": "hash",
+        "value": "d17a3b074caba6fec94711d6c0d446ebd9d806df726cddb63df933c0bd88c42c",
+        "Threat": "trojan.convagent/shellcoderunner"
+    },
+    {
+        "type": "hash",
+        "value": "f7da537ef4d6612df109c59ee668b449981c90d7c18a96d411a1f62805bcd20b",
+        "Threat": "trojan.vmprotect/misc"
+    },
+    {
+        "type": "hash",
+        "value": "8e3a9e5e29c74468a1f041c7552479560f03d04ff612c4f8ea186a5e17cc8a47",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "17274c54f8b4480c2addd43f52b23adfba48bd764c78f124dc1ab6dab9779cc2",
+        "Threat": "trojan.mirai/bonb"
+    },
+    {
+        "type": "hash",
+        "value": "cb7e494eec2499017f80e1352915fa837fff394f04df860f1e622c0fe5f858ae",
+        "Threat": "trojan.formbook/rtfmalform"
+    },
+    {
+        "type": "hash",
+        "value": "374c0eb3a13b0ca64a0a3913beb508568d01f5ca55c0209191987361f08b4f80",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "f88d86b6a5c2da91b2c2a09ce16516ddec83cdbb7380277016f74e2ba37dbbb5",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "e1f0978feb782a50cc29f72901fe23fcb991691d0f92038a0563c848084fa7c7",
+        "Threat": "trojan.stealerc/stealer"
+    },
+    {
+        "type": "hash",
+        "value": "886b335cee3055840f03fdc58ebbc1333554986d8e9db35f43a67ea697906c98",
+        "Threat": "trojan.mirai/bootnet"
+    },
+    {
+        "type": "hash",
+        "value": "d52db1cc49fb05faa69226670727ead0af151c2b303f682a05386719a7e183dd",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "5659b4ea8582b110707f84728ceeb09d22e72c0f729a02d6d73dbf268b2397bd",
+        "Threat": "trojan.msil/snakekeylogger"
+    },
+    {
+        "type": "hash",
+        "value": "b15b3f3b14199f39efe484f7de6bd9c04b288074e3774e58a296e5fb1ea9afca",
+        "Threat": "trojan.agnt"
+    },
+    {
+        "type": "hash",
+        "value": "5cf788b4998959370e950fc17b05f43f2a7c5451190807c4567706b82e8847d6",
+        "Threat": "trojan.gafgyt/mirai"
+    },
+    {
+        "type": "hash",
+        "value": "81084878c91fdd523b75c82ad788393e43e668093d3526210a89ce1fb32826b6",
+        "Threat": "trojan.zbquq"
+    },
+    {
+        "type": "hash",
+        "value": "021abe41af09ca4ca1d270f5a888f8528359dfb6cac5358d014c5f01e9995c4f",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "36ec8474330b678f34e4355b6921c6230cfadbb01b765964a2605a3edba78c9e",
+        "Threat": "trojan.msil/agenttesla"
+    },
+    {
+        "type": "hash",
+        "value": "5e91d5090065819da3e5789b13e3a9bea66c59d8d3c05f16500f7a2349635f98",
+        "Threat": "trojan.msil/bcvoc"
+    },
+    {
+        "type": "hash",
+        "value": "8415b1cdfccc6ac18d99c34297a7c255ddbaa529b41ba017f23d8f105013f0d7",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "0db2fd641e318bd5f2e37c55bbf53ce9596e596a074ea1d2d67f643f157e0c6c",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "a21679f3a94251932879bee5ebd5bf4b62d621f2c0e2fc7c48af5c6f4dbe5db9",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "739601d50512c0ab46351aa3c8f63c17b2e938c942d22e27e135c59fdb457209",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "a769eaa070125ad38353b41c7afa3eff42d8df87e88051c9b1bf8b09c6f602cd",
+        "Threat": "trojan.barys/msil"
+    },
+    {
+        "type": "hash",
+        "value": "67df849f3252e566ca8f73336ab31eb7b5ddb277c91f90a9dac885c9d9de3837",
+        "Threat": "trojan.mirai/atgg"
+    },
+    {
+        "type": "hash",
+        "value": "4bce1b87b6a2a6343b264652842ee1293512cee34df1d23091f5aa60442f057d",
+        "Threat": "trojan.mirai/bonb"
+    },
+    {
+        "type": "hash",
+        "value": "2fd18d94e14f0d6f387f32eee284d5896fe345f690b32cd754f0439d4f16aaed",
+        "Threat": "trojan.alien"
+    },
+    {
+        "type": "hash",
+        "value": "38b3192b7e792073bde272b917f53336ad35d17482d5140b362f697861bd2c55",
+        "Threat": "trojan.mirai"
+    },
+    {
+        "type": "hash",
+        "value": "1ad16126b09c5b7167006b094c4ac676b9f10b962d62203b8075875c81251a57",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "354c87c3d98f170852b5857bba1cb6a92adba034222b9558b3869f3f0149bc26",
+        "Threat": "trojan.mirai/r002c0dlj25"
+    },
+    {
+        "type": "hash",
+        "value": "0fd95892edbaddfc44150174c723471e34fa1c5a55c4ca9f3d42a8cdc6fc876d",
+        "Threat": "trojan.mirai"
+    },
+    {
+        "type": "hash",
+        "value": "482c74427a5066da2bc67cf230c3260d21e4e6646866696b053a6b2619eb7663",
+        "Threat": "trojan.guloader/nsis"
+    },
+    {
+        "type": "hash",
+        "value": "db5d4efebab5af92b5af1113ad9b909537239dbf40488733cb288d36801ad363",
+        "Threat": "trojan.asyncrat/msil"
+    },
+    {
+        "type": "hash",
+        "value": "90a3ef988d6a911ad74db85cc4a68bf8365bd1f6272bd758210728d1b4eda493",
+        "Threat": "trojan.msil/basic"
+    },
+    {
+        "type": "hash",
+        "value": "5fc37eb5f88b5783aa6376a62f25f601a2146b1999115e922d47368e8a7a9074",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "d75ade600859348f4cd24ab444ec22a3a1318fe210819fbee187bbc9ad532840",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "0c760af65d43e84151805fdb8976ec6f437cb17abef30a85a1e0941d49bed85f",
+        "Threat": "trojan.msil/msilheracles"
+    },
+    {
+        "type": "hash",
+        "value": "944be60b0fbcbf625b47a4ea8064100124d3c0430855da6ec051cd3d494d964b",
+        "Threat": "trojan.cobalt/nsis"
+    },
+    {
+        "type": "hash",
+        "value": "8711a5fe85e87f0a6c580d5b5d331c26933052f1619188727ec9f5d211354b4c",
+        "Threat": "trojan.msil/taskun"
+    },
+    {
+        "type": "hash",
+        "value": "420a17938095a53a781bf0f48a8ba394c16a974a076794fc65cb78c0a89a563f",
+        "Threat": "trojan.runner/downlnk"
+    },
+    {
+        "type": "hash",
+        "value": "cebb539c13b7669a6793eef961a2177b20214c5c723e52245f819ed1beb893eb",
+        "Threat": "trojan.msil/uztuby"
+    },
+    {
+        "type": "hash",
+        "value": "8ccbbe528fa6e2318ab9f53b8b6d26a46a02c6d0a11eeae40f0b7e9c7ae373c8",
+        "Threat": "trojan.msil/darkcloud"
+    },
+    {
+        "type": "hash",
+        "value": "3c1acf47e846e1c9ac7bbb6a0429dcec4b73a8d929fd02459f48dfa18ef8cd65",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "3f3cff1e0db15b2e530dc9dc36553fe765f57f1a527089c96856b058bf1aabb0",
+        "Threat": "trojan.cerbu/remoteutilities"
+    },
+    {
+        "type": "hash",
+        "value": "8bb41f11df7a7876595756f4480aa209ffbb0e2733de550d8b76367dcdc29844",
+        "Threat": "trojan.themida/barys"
+    },
+    {
+        "type": "hash",
+        "value": "aa8fdbdea3e110fd3e9d1255e2d7acbd5239175adb2db35a099391a4a988adb6",
+        "Threat": "trojan.perl/shellbot"
+    },
+    {
+        "type": "hash",
+        "value": "7b233b873f02793375daf6d0ab3d1d1d51de0cd076d57741e033513d0b9b9983",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "b6b77e2e3baa99c58e579018eebc091362728e80c44af318b08c1986328a619b",
+        "Threat": "trojan.mirai/r002c0dc626"
+    },
+    {
+        "type": "hash",
+        "value": "768f9d4c2dd33e72d10c18af8646eaa28713333a93b4d4f215c1d3d9cb921591",
+        "Threat": "trojan.xloader/gpftl"
+    },
+    {
+        "type": "hash",
+        "value": "044e39bd53c5e5c1d970198b6db4dec307f66afc48b8a59e83ad0a6edab12efb",
+        "Threat": "trojan.xworm/adlq"
+    },
+    {
+        "type": "hash",
+        "value": "a7b16c001f0cfa00e770798e609ff469bdc9405a5c064b6381be9a76b82d7e40",
+        "Threat": "hacktool.connectwise/msil"
+    },
+    {
+        "type": "hash",
+        "value": "2e3eff63c377f20c5e72605844da48e80d4472b4c0cdb122e2bcbe135ea54ae2",
+        "Threat": "malicious"
+    },
+    {
+        "type": "hash",
+        "value": "7ffb27b237d33da2ac4a20c3560db2876f5f398f39a0a28dee2d775c7b62ad89",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "2c05935c19ede9cccaa1a274c93c7deab438e27f141120642aafd377ae4463bf",
+        "Threat": "trojan.mirai/r002c0wad26"
+    },
+    {
+        "type": "hash",
+        "value": "15362938ec99fd7d7cfeb694a0c0c2a2e02416163bf21f681193e1a063758a5e",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "6d50c32a7e4493507370547b6700ca496967386ae3530d0eae3ada04b8304a7d",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "b1c0c37d7dc32d7a551533ab1b7f6cd84a4130985d880561e11e17e366777199",
+        "Threat": "trojan.multiverze"
+    },
+    {
+        "type": "hash",
+        "value": "09edb8565e9902955f79e4fb24145c8b7436e1e148ab17e9ec52a2372b0f6fee",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "71a4a693b732bfea1427bff1824235b78c3b0c163ef1c78add7b5c15f42c4b9f",
+        "Threat": "trojan.autoit/lazy"
+    },
+    {
+        "type": "hash",
+        "value": "cbe6067a9e1a2f4098c46baea2dc60b0073958fa6a1530f7bb8125255f38dd59",
+        "Threat": "trojan.coins/jrrtv"
+    },
+    {
+        "type": "hash",
+        "value": "a73629ed87a237dd15d6e4fd9fd3dbe9ecc48665a5104ecce36f1644e5ed8c58",
+        "Threat": "trojan.salat/salatstealer"
+    },
+    {
+        "type": "hash",
+        "value": "313dc0c6aff5aedde146233d5e85adbb2ed29521b6d90534333610d42ada04c7",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "cd69fc3faa8bfadd257a93ac2b25b41fe04f240173059456e870ea82838a571d",
+        "Threat": "trojan.mirai/legif"
+    },
+    {
+        "type": "hash",
+        "value": "6a9ce7819f97757913825e139c27ee5a9cf8e93991d037286a4cd0d72519c54e",
+        "Threat": "trojan.mirai"
+    },
+    {
+        "type": "hash",
+        "value": "99046bca4bfec8af4b686ad914b10d5c1cd0c47f63d94959187b02f8678df698",
+        "Threat": "trojan.alien/wininf"
+    },
+    {
+        "type": "hash",
+        "value": "f2351a69a5f002bcab083355f2e5b73925de14c38d570ef9c3d48477229e8b24",
+        "Threat": "trojan.zapchast/bhgd"
+    },
+    {
+        "type": "hash",
+        "value": "dde8d66a35c0e24fc0f930d4a0121676601284855c22710216a89adc75e3d184",
+        "Threat": "trojan.scrinject"
+    },
+    {
+        "type": "hash",
+        "value": "2d02b3ac86bfc2db0e273ef22a7dada3ac24d1d33c71fe16b6f9734af02aff60",
+        "Threat": "trojan.msil/runner"
+    },
+    {
+        "type": "hash",
+        "value": "c91387908253c33cb484a3d21b2e3d5dbf61d5dc5086a3ac7e7b406c9df5ea3b",
+        "Threat": "trojan.quasar/msil"
+    },
+    {
+        "type": "hash",
+        "value": "99b2af9337671b33edc29fa48a367dfc89b2b4381cc297062c25a314d09638a9",
+        "Threat": "trojan.msil/msilheracles"
+    },
+    {
+        "type": "hash",
+        "value": "3f4afb63372c77224c9117b1f9c13cca311c0e73e33c6b0a61f5b99b8efa76fe",
+        "Threat": "trojan.msil/msilheracles"
+    },
+    {
+        "type": "hash",
+        "value": "56e9531906023a89d7a9f5387071b14c474065f7250ccc612dffa5f37c64eb3c",
+        "Threat": "trojan.mirai/hvbra"
+    },
+    {
+        "type": "hash",
+        "value": "b68fd0e15767f110f2f20c6226d97c33b4dac8327b63cb28a16ff90fff1c1986",
+        "Threat": "trojan.mirai/miraitr"
+    },
+    {
+        "type": "hash",
+        "value": "4c9e60cc73e87da4cadc51523690d67549de4902e880974bfacf7f1a8dc40d7d",
+        "Threat": "trojan.webshell/java"
+    },
+    {
+        "type": "hash",
+        "value": "5ac1e1b5d1cabdbe372f907fb1e1768927a4a338e27f0ad01c242699a1da1744",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "e3b2e20ffe3369334111ec8ab124efc05776b8805770c5abe2b6d1838b2255a0",
+        "Threat": "trojan.cross/runner"
+    },
+    {
+        "type": "hash",
+        "value": "c1901946d9e9674f7eb32924a279fb2bb97cedbc4b11479abbf8696f966930c3",
+        "Threat": "trojan.mirai"
+    },
+    {
+        "type": "hash",
+        "value": "9212a99a7730b9ee306e804af358955c3104e5afce23f7d5a207374482ab2f8f",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "33448e03ab7973452032086db5dcb22e7526fe5b46df093902986664072bb12a",
+        "Threat": "trojan.shellcoderunner/oysterloader"
+    },
+    {
+        "type": "hash",
+        "value": "27a5b90f604f0a1bd24b163771ce1d0bc87a6c72f939e57e42520d17e4263838",
+        "Threat": "trojan.msil/genericfca"
+    },
+    {
+        "type": "hash",
+        "value": "875d4ee2ceeaa9e1ef431754ef310051de5d2edfc906482ac7f5ae0cc552bca7",
+        "Threat": "trojan.msil/agensla"
+    },
+    {
+        "type": "hash",
+        "value": "5c379f6b5529402e8a796385a99a8df3515952c9830a4708bc9c7c1057efdeee",
+        "Threat": "trojan.gafgyt/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "d864a30d450157ee025d97dcd2a6a6bf386719fc4c14ca361f85aa914665657c",
+        "Threat": "trojan.msil/basic"
+    },
+    {
+        "type": "hash",
+        "value": "52a7aa17de6abc3908f107ddf7a977033930657031c37765deb406750044d2eb",
+        "Threat": "trojan.vidar/zusy"
+    },
+    {
+        "type": "hash",
+        "value": "705be77b14ecd2f8441d4852e67e35e196684034d4f4ee596897ae30c33e0c56",
+        "Threat": "trojan.mirai/multiverze"
+    },
+    {
+        "type": "hash",
+        "value": "fba936f56ffa940d82bb44215b681d2834c9d3d7bb345bf96facc7670d8c59b8",
+        "Threat": "trojan.formbook"
+    },
+    {
+        "type": "hash",
+        "value": "803676dbe7bcf2bf1e6332573db3ccc7cc71fe96483634367e805afa40db65c9",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "27695e7818e5ef93d96b2500e0cb941e9d7c7f700324abce7e684a7be99547d6",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "b9b168088505eeb033b4bd3a66a82178bea69f61c4153d000a47d5ed867f3531",
+        "Threat": "trojan.autoit/formbook"
+    },
+    {
+        "type": "hash",
+        "value": "973e6ca0574bee0109b6062b0c74e8501756631753e708695a79d66b4d28c407",
+        "Threat": "trojan.mirai/expl"
+    },
+    {
+        "type": "hash",
+        "value": "9206afc521a5ea75be6fa7ff734513db0fd09f798c47493ad56bc1b460626a7a",
+        "Threat": "trojan.mirai/bonb"
+    },
+    {
+        "type": "hash",
+        "value": "68a1d7ea06eab9e4db23d1dbf8f417b07ed1a44740445fe3b1e6d3e88c5a2abe",
+        "Threat": "trojan.barys/download3"
+    },
+    {
+        "type": "hash",
+        "value": "3924f2decac6f93483b163824320a00a668825a243133ecc7836b893ac21631e",
+        "Threat": "trojan.stealerium/msil"
+    },
+    {
+        "type": "hash",
+        "value": "096dac65df36be8783618c68fca23adaf9d4d0583c0309c29f591900032c6cb6",
+        "Threat": "trojan.pantera/argulong"
+    },
+    {
+        "type": "hash",
+        "value": "f0c9477f23fa9eb5e36f106c634554b30df83db7310be7e61b3ce57979a73853",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "029a0752ff7980c7548f57db44d530214e4c61783b81c0f66e4e8b52987a9031",
+        "Threat": "trojan.salat/salatstealer"
+    },
+    {
+        "type": "hash",
+        "value": "2c03efcf8673a901a4d51f24e3d4f4ed698f9b4782b53a8c254dd1a1a00a2604",
+        "Threat": "trojan.msil/jalapeno"
+    },
+    {
+        "type": "hash",
+        "value": "c9d6d1ce2f1a6776b487ba8560a001b23508c4be4f8869baa52d54f92e0361c4",
+        "Threat": "trojan.mirai/expl"
+    },
+    {
+        "type": "hash",
+        "value": "b2377c7fc4e0d7559f6e31407592b7f8b625869ac575395cd083c8aac7ea06dc",
+        "Threat": "trojan.traitor/appl"
+    },
+    {
+        "type": "hash",
+        "value": "e3ca1c55a82868e34f9eaf5297e22e2b7c3b9cd08a81461bb532d6d9ab6fc92d",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "db7ed09868d7a2687d5be25ba3d32cfe5e7ce11485ab71051d67c6dc6d56624b",
+        "Threat": "malicious"
+    },
+    {
+        "type": "hash",
+        "value": "85b03acc920b097272bad78b33b52474edf0306def913bfd7a007214cd56c448",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "360467c3b733513c922b90d0e222067509df6481636926fa1786d0273169f4da",
+        "Threat": "trojan.shell/bashdlod"
+    },
+    {
+        "type": "hash",
+        "value": "fa1f88dee45ae92a45ef25ed46146adfb8d2cfe8758c3b8efe02aa8e38463386",
+        "Threat": "trojan.barys/tedy"
+    },
+    {
+        "type": "hash",
+        "value": "41b76ecf5385466ccc0f051b4e84ead556881ea9a739c1165d5d4f6b34c0577e",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "c585b5196d878bb2150ecfbf45a7aeb67ce1f33801b0c69a5c2ad7a29c00418a",
+        "Threat": "trojan.msil/darkcloud"
+    },
+    {
+        "type": "hash",
+        "value": "1e9755455d9133309c667acbd0022c52939460110ad7aaa39b502aa7e0ab5ba2",
+        "Threat": "trojan.negasteal/yxfldz"
+    },
+    {
+        "type": "hash",
+        "value": "94c2d49590ae927fc6e983517b1eab54ea02b25eef72683527b127eb7add7a91",
+        "Threat": "trojan.msil/agenttesla"
+    },
+    {
+        "type": "hash",
+        "value": "d7340e6ebd71590ca9bf8c864ce67c3dcef15b493a3679372db5624483c8ad98",
+        "Threat": "trojan.sagent"
+    },
+    {
+        "type": "hash",
+        "value": "d8bbdb5ee6b89a572fb2ca4a1675038ac9181653adc8efdc9a50120d3c6e05bb",
+        "Threat": "downloader.medusa/shell"
+    },
+    {
+        "type": "hash",
+        "value": "666e5b16dfd825ecf5357e47b1a2bd26ed4ab475dc33ec6985473f133a590f73",
+        "Threat": "trojan.gafgyt/mirai"
+    },
+    {
+        "type": "hash",
+        "value": "29d725dfe9938dfbca6b36172e32d0a2c5d63e2aa9b836f41a601d90f1172acb",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "f0ae32914e5bf695aa8acdf5a238d5ed2a6f6b7d2b65dddc40b41f5bdfb52281",
+        "Threat": "adware.offercore/bundleinstaller"
+    },
+    {
+        "type": "hash",
+        "value": "127d3a14a5ccbd1ab15fd2ecaff4b6e8afc07d4fc2fdecccfba1eadf21199753",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "da01456eb3ffa855bab7434fce530053756387cd795f586f115eda486f659c16",
+        "Threat": "trojan."
+    },
+    {
+        "type": "hash",
+        "value": "a79867d10cc8e2fe3f4c514905cc59f64d37273544fc45cbebf8c643968559cd",
+        "Threat": "trojan.xegumumune/powershell"
+    },
+    {
+        "type": "hash",
+        "value": "9045588df3db5876f5163ad94fe794cd8abe198c5bd933b47bf2483fd1514ed0",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "1a1f3f0486a05ac160306cc1a7da24b9e6964b1298e915e363bba4612751a969",
+        "Threat": "trojan.mirai/r002c0dae26"
+    },
+    {
+        "type": "hash",
+        "value": "4238d1f44c07f067254606bdd62f96a3618e4a49c49d577f25f77ab67a09207f",
+        "Threat": "trojan.zusy/orcusrat"
+    },
+    {
+        "type": "hash",
+        "value": "fdd1a4bcf23dcf640444a66c9526061c7594a6908655b9aee278f2911364abb6",
+        "Threat": "trojan.mirai/r002c0dls25"
+    },
+    {
+        "type": "hash",
+        "value": "298aca705d9a476e794e1080f2d75bc9ee42ac09eb5d3ecfbe53df7e523affc6",
+        "Threat": "trojan.mirai/multiverze"
+    },
+    {
+        "type": "hash",
+        "value": "038187ceb4df706b13967d2a4bff9f67256ba9615c43196f307145a01729b3b8",
+        "Threat": "trojan.mirai/afde"
+    },
+    {
+        "type": "hash",
+        "value": "de77a2ad240ad63b1fd22f81bd74a52dc7a82dbf454d02c93bb4cfb50dadc5e2",
+        "Threat": "trojan.mikey/poolinject"
+    },
+    {
+        "type": "hash",
+        "value": "d8a61370f97491b1af554b214864378a5ec447343c8d5a217b037823f3269b22",
+        "Threat": "trojan.tesre/batobf"
+    },
+    {
+        "type": "hash",
+        "value": "138410de9f13c3b07006cdbe0768a6e6ee1536586c5533f7a3abec6b391151cd",
+        "Threat": "trojan.sagnt"
+    },
+    {
+        "type": "hash",
+        "value": "f5c16837aaba4998ef0694bc143c8b9d32fd4dacd87083821ff42f72ccb7d4b8",
+        "Threat": "trojan.mirai/avbm"
+    },
+    {
+        "type": "hash",
+        "value": "4557d015ee21fc6da5a524380f86588aec5ac27617bc8e33d838a15768cdbaed",
+        "Threat": "trojan.cryxos/adto"
+    },
+    {
+        "type": "hash",
+        "value": "61aeec7cd332e351ba14aec66b441dcfb5ed3f0e25391962ca55f0ac5265646b",
+        "Threat": "trojan.xworm/adlq"
+    },
+    {
+        "type": "hash",
+        "value": "1588ef3105280b3f7e34eff99e394450489b23a98dcd15fd495d4a4f45b4fd58",
+        "Threat": "trojan.mirai/r002c0ca526"
+    },
+    {
+        "type": "hash",
+        "value": "6b08f677cd7a32d08f0649cc08360cbce8c1fd204a78287aa4db865522b6f55b",
+        "Threat": "trojan.xworm/adlq"
+    },
+    {
+        "type": "hash",
+        "value": "c0a13e137f49d60b74c8ba02f50a0913b772ee652264dfec20f96ee3a00ccff2",
+        "Threat": "trojan.quasar/msil"
+    },
+    {
+        "type": "hash",
+        "value": "71cb34c3b42861218af7407e5f075de3027e0e83f7501577f14ebc818c31dd89",
+        "Threat": "trojan.hajime/r002c0dam26"
+    },
+    {
+        "type": "hash",
+        "value": "ec39782ea367d6e0802d22c4b0e777f2a25cb53d38d8942246c4e8d54af7513d",
+        "Threat": "trojan.mirai/ddos"
+    },
+    {
+        "type": "hash",
+        "value": "64c8ed17089ecc967cb25c4f9df26e87a84f8b9ecaedd48a45edf33bbc655c72",
+        "Threat": "trojan.lazy/runner"
+    },
+    {
+        "type": "hash",
+        "value": "7b94b3ed9445e824b3d61617b2d36cd79ffcaa30f5ce08db48d1298fd43ef68a",
+        "Threat": "trojan.quasar/msil"
+    },
+    {
+        "type": "hash",
+        "value": "d00c90848b0f3aa3272c23f3d3f02c4debaa967e0d5888e89a106b2cd384ba3c",
+        "Threat": "trojan.egairtigado/vidar"
+    },
+    {
+        "type": "hash",
+        "value": "0f15691e07584466eb93e481af1aa6f1c1da30c8f6e0aea1f84b7e519c06dba8",
+        "Threat": "trojan.mirai"
+    },
+    {
+        "type": "hash",
+        "value": "6091289ac631043159e1ee7ff6a4232b1a8a76e24c886b8ae906aabc4d36a3f9",
+        "Threat": "trojan.mirai/gafgyt"
+    },
+    {
+        "type": "hash",
+        "value": "906b48a6e50edeb27678fc47e419fe8be24dce6b3c73edaa28acd96fd488189b",
+        "Threat": "trojan.asyncrat/msil"
+    },
+    {
+        "type": "hash",
+        "value": "872cd0d0d2794e85f831e92d73256de3004ee8fc402464aa32ad198101043e2d",
+        "Threat": "trojan.tedy/amadey"
+    },
+    {
+        "type": "hash",
+        "value": "708100bbbfab52dd4019bd55b56a475a1e10e2c273478abe8e07c363d342c206",
+        "Threat": "trojan.mamont"
+    },
+    {
+        "type": "hash",
+        "value": "264465e05b764c3686bbeaeb44c19c32d4fb6ca74f9fa8ebe3ecc39bd63c0bd3",
+        "Threat": "trojan.boxter/downlnk"
+    },
+    
+
 ]
