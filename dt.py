@@ -14,7 +14,7 @@ API_KEYS = [
 "5ffb7905f7b959e5b0964c8bcb5f0d72277e7b449ee445b7fa126228858add61"
 ]
 
-OUTPUT_FILE = "hash_dataset.json"
+OUTPUT_FILE = "ti_datasets_hash.json"
 
 results = []
 
