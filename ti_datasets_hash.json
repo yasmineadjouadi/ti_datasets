@@ -3533,5 +3533,5789 @@
         "type": "hash",
         "value": "8eafd99b5d431839b1d32d81e70a79f6d7b2a182c56043919820dbc6f531d189",
         "Threat": "malicious"
+    },
+    
+    {
+        "hash": "ee35526d4b26d6cccbdc1fc8e6c94cf02e5f9be32b6b43390167804a0ce6c50f",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "9c24785c1d429ce1cc9c72613993d12f2b1b95d96e834f3d3736b26221027094",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "8f368b029a3a5517cb133529274834585d087a2d3a5875d03ea38e5774019c8a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "302fa0883fe21e4d0b56c68574a8073edb05b20325c41ea41e6d4e4005d0f9e1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "d6b7b27e13700aaa7f108bf9e76473717a7a1665198e9aafcc2d2227ca11bba9",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "8da85cb00f7ba5e8c23b058d31a4b169c18936a8f7181015ce27e871d8b8cccd",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "6cbc05acf871c106f7804069fffef908472a31ea1a782add45a100d14c8f5ea0",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "91450f9e8aeb0361867cdefc0bb7e5bad8941b5081db549d34a91072df4db5dc",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "7cdbe203acf89434221c69804bf8bd1e44b413376fbb509301c80a84d73e3ee9",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "79a98588b501d1fdb5de009a49dccaaf2f7683407c856f5007c062f36823aad0",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "6b22aa631597af44672174cec2c7e6c87741db9bcca6c59cf54eade02dae451b",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "a9643eb83d509ad4eac20a2a89d8571f8d781979ad078e89f5b75b4bcb16f65e",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "bf575ce1c9425bc44f5cabbc34366e0e92ef369db0a8b69942c5bdb1cca9b800",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "23bdeb9ae6a8f414c33ed8baf2de46477d0bc7f469dd543d60332a04e0b7c039",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "7a8a0e69f5b95082af078c47676bab17c0210d6c2d97e2631d147ead1a4505d3",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "61e88158da4636ab0c11db75e376f42e11a02ebe0387223934fb10944b52794f",
+        "mb_threat": "lnk",
+        "file_type": "lnk",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "23f8aa94ffb3c08a62735fe7fee5799880a8f322ce1d55ec49a13a3f85312db2",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "40b865d1c3ab1b8544bcf57c88edd30679870d40b27d62feb237a19f0c5f9cd1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "e6762cb7d09cd90d5469e3c3bfc3b47979cd67aa06c06e893015a87b0348c32c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "cc4a0b4080844e20fb9535679f7b09a3e2449729ce1815d1e5a64272b0225465",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "a1ce52437252001b56c9ccd2d2da46240dc38db8074a5ed39a396e8c8e387fc2",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "60ef0ca5e6e7d62a7750cfe1c0b08d473cb19a6817a799f035ac56e0d27ce3df",
+        "mb_threat": "Ransomware",
+        "file_type": "zip",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "7faeb64c50cd15d036ca259a047d6c62ed491fff3729433fefba0b02c059d5ed",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "180f82bbedb03dc29328e32e054069870a1e65078b78b2120a84c96aaed7d843",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "9eb7abf2228ad28d8b7f571e0495d4a35da40607f04355307077975e271553b8",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "05e06709523fd798da963c2c24254de0fcca6c57e1052996798ecc74ff43b41f",
+        "mb_threat": "BBT KLA d.o.o.",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "88b1b4966650de59cef20c340b28739c52dc9ead91d9959a338a8e531ad38335",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "781bc4dcbd459893397a8b987bf697f5b95435dfaf7fe3f4d2224728e7a2202a",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "2ec5256a7edb90b1c05c92f79e8a48c205b29e1ac910a535aa83c30b8dbbeff8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "5e2c9d80fa4528fe9777738a9cba9ede08cdae353fd4cb2d9caf0c9801fd5711",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "8862b060db997bc9077e3bece06529c1c116af379985f6138a07ab5fde61b54c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "cfdc2cb47ef3d2396307c487fc3c9fe55b3802b2e570bee9aea4ab1e4ed2ec28",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "ec3da4ac9ec917e66ab943ab149119807922f64f2e4960ebadc36fe7520b300f",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "d7333223dcc1002aae04e25e31d8c297efa791a2c1e609d67ac6d9af338efbe8",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "d0d7a8f588693b7cc967fb4069419125625eb7454ba553c0416f35fc95307cbe",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "5b1f242aee0eabd4dffea0fe5f08aba60abf7c8d1e4f7fc7357af7f20ccd0204",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "92f124ea5217f3fe5cbab1c37a961df0437d5a9cbde1af268c60c4b3194b80ed",
+        "mb_threat": "Obsidium",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "e8a0e80dfc520bf7e76c33a90ed6d286e8729e9defe6bb7da2f38bc2db33f399",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "cfe1678a7f2b949966d9a020faafb46662584f8a6ac4b72583a21fa858f2a2e8",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "bbbf38de4f40754f235441a8e6a4c8bdb9365dab7f5cfcdac77dbb4d6236360b",
+        "mb_threat": "Ransomware",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "327da452b8c86ed8910056646771de8fb92a928c3d135efb2d41e6cb26806382",
+        "mb_threat": "BazaLoader",
+        "file_type": "exe",
+        "signature": "ZLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "d5d744e0f7984ec01593da35f26bf24e95e4b1cc8bd1c0ff4f31de5dbf94e38f",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "3ee706f07d13cb9e617eac2b4442479634ab48f11005568c739c6dcab75052a4",
+        "mb_threat": "ARMAUER SP Z O O",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "unknown"
+    },
+    {
+        "hash": "0cf36731f5b8651d53fc651607c3fccac24b631c08dca4493d8e07d2fbff1db3",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "a671d564c50b3056b915bdc6b063b781989b42e01a3743a1cb82849414fed0f8",
+        "mb_threat": "Ryuk",
+        "file_type": "exe",
+        "signature": "Ryuk",
+        "category": "ransomware"
+    },
+    {
+        "hash": "d6fa8891a75373ce59659837bff519f9caa1882a59a417a453184793ce419c00",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "552bf80c1c147d39832de1d766ed24039b5f2996ccab03d1114763efe33dfbc3",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "70115960f384f237162bd6a7533441b322afeb16a2364ecc6bc36b54945d8f2e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "9ba1f0045b53aee9e6a44dcaf914d639713378f76006db5a0fe8e2de194a6f21",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "93da39b18e13ac51a63ae33e9dae9e3352b05afcf7e374087221a30c7ab1b0eb",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "b55ed683d48639ae08887b60950e2e06606e6df3f5bc0873698a52ccfff067ba",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "1fcdad46b4e356758fb0df92c4ce2e6223237f43a9f0d3097098e0d578aa85b4",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "486786f628734fcde180598771c220dc0fb889650cf6a7be20a82bd7b79673cd",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "eaab2fd25ccde3b7b149a07e74e69ff9cd3886c852e562b2e5c576233c4466d1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "45b6fbd68cb8c8991460337e5782c41f77ff0ebf84f7eebc36b1601e4de425de",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "1652147663a81b888e0f11b7d2093548588629f18c124633611e6a02ca562775",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "e97671faab18edfdedb74e4623d55207d912ab1efef5423b8a6b999a43f199da",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "b303d73e3c93e65c66ce7d1dc9c97fd39fb71d490b91588e59b2a677e17c3cdd",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "6d39183d762f275fd57a809d1556a83cf3cf825485a5ea00bada4c39dfecb514",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "09ada7462809e3bda60c9a809d09b69bce7af2b28c2bf5a4c90cfb275cbd9aeb",
+        "mb_threat": "msi",
+        "file_type": "msi",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "fc3c2a710caa8687d973ac7fbba52d41d4801b5e57cf3044d835416f5f6f937d",
+        "mb_threat": "Crypter",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "1b403baba0d76ade77afeeeae987f0f9445b930192cab01e1d0b2bc335698bf0",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "46018fbcf205ace11c502a5cec83c19c69d3849c2bf99cb977e8ab8de905a5d4",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "944be60b0fbcbf625b47a4ea8064100124d3c0430855da6ec051cd3d494d964b",
+        "mb_threat": "cobalt",
+        "file_type": "exe",
+        "signature": "remcos",
+        "category": "unknown"
+    },
+    {
+        "hash": "d680e2a0429145c94a62fd0a3c76fc7a54d74e9d72016794db4900a191457b8d",
+        "mb_threat": "msi",
+        "file_type": "msi",
+        "signature": "remcos",
+        "category": "unknown"
+    },
+    {
+        "hash": "26a36920e7a463398a4251828ec02fd965ad1d782f819b0c04904706efb083be",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "81ccf158093718305b3499d0f16d8a82bcad69f2740066daca8d5b5ca9979688",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "481745ac5675a825ea1835635c095dfafaaa312700219e9dc903a4da9452fab9",
+        "mb_threat": "rar",
+        "file_type": "rar",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "6ed5ec75971478f99d787a69f6352f51f4992df52cceccde6e5dd1bdcd7e7bb4",
+        "mb_threat": "remcos",
+        "file_type": "vbs",
+        "signature": "RemcosRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "f96bd02dd102b92f6e980f6b8e53a51205eb588a1bb29f3f96aaaa9e0d4f93da",
+        "mb_threat": "acrobat-adobe-com",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "dcc20a9327c8d27cf24b5a51797d22f670d1d4de38ed8b66130d01ecb0b15800",
+        "mb_threat": "acrobat-adobe-com",
+        "file_type": "rar",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "f14254c02ea660ef7c44d8d3e13576c9861df1744c9799f96c34310adc97680f",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "369fd02b1704b8bd25a6219eaabe87fe5859857d60c9f2f8d12ba5b078b0a2b8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "a08482db6c0e5f88057d98e980938e6531d275bf9cd036113d8bab6775157d43",
+        "mb_threat": "remcos",
+        "file_type": "zip",
+        "signature": "RemcosRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "8e5d28430984ad0f5053084b3e6460f8a1491ca195b087f03142599bc091f4c5",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "5ccfa9cea83ba62bef18f2baee1f229bc954104257ef477c119ac8f96630c463",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "ec21d54163c145fd0a8d5f5569913cf9a27bc54bd756028124e01e52e707b69d",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "f75c114f83d3d078bd85e7e59cd8a4ed6e8be4a33db6600bd9eda842845ac2fe",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "caf44a2d4d469a2ec1b8acf1df9e5dabb3561bc7d580ea0e83a3523bde454bf8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "06a4f5872145608425c3b41c01ee00f6b20986236d673ec5319184cc68a029e5",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "b7f82678830c34db745a16d5551386f15ff28fda563f10c6903f6471a58e243e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "remcos",
+        "category": "unknown"
+    },
+    {
+        "hash": "fea7c0766ca58958e866f5a93a15da318cbe3bea7759a542c0e24949ab13945c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "1e2d4fc60993387f8ccf287aac6257601c6bdcedf543c8ad177a54389cee68e6",
+        "mb_threat": "GuLoader",
+        "file_type": "rar",
+        "signature": "GuLoader",
+        "category": "botnet"
+    },
+    {
+        "hash": "f1f841722dfbf5ae03d0c6b8263565f091570ec9a1e9dc6f93f5759f746e2449",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "bd46eb83996e2868f923884c9ac2dfcc3f3a7c216912e923bfe65dbf77877d98",
+        "mb_threat": "corepulsesync-ydns-eu",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "13d2437b66e688be0d4fe127221675a0c6b6df14e7daeaa82bc1f1f6aac35b5c",
+        "mb_threat": "cab",
+        "file_type": "cab",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "353776fcccb12bea07382a7de11e7ac3ab680c107e5253814dba72c825207393",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "774ca28a2a18a58313346fb9500af9f26809f9f9c6aab8f7c5251f5963cc0e21",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "6eb148f50e7fa9b936f704ebb078515507fe50e1bf474df6074fb79827475d49",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "45ecc6d2b02dec8430cc335af1479ad874e897e9fade308a9b054dd46f661a2c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "8af1b5d9eb0c5925009f07824184d5d7e1f4f02f253135d63e51590e87269441",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "3bb103bfa52137624c0932b092360c74b5094502a1dbb7b1ea4553fe898b22f7",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "68ff3ce1de760e7c481902c645f21eb683c386df14cc29b4365931eed481e26b",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "6ab2e3abd70acbce6ed7a3a85c0f205be5af26bd4c7c750df8c94dd02a4d7e60",
+        "mb_threat": "backdoor",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "45d2774e85ef19ded1b6a9dfcae50c06274ae0c387a7c36933816287437c5d62",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "904a61a37592f6a7c9e5db72bc097782911ac5992b17c2188ae9c6306c41c1e2",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Lokibot",
+        "category": "unknown"
+    },
+    {
+        "hash": "668b4176657d8ff0f4d9c2559d5fc8c93b91c72fbeed238b5983f94b9055ae3a",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "8e6e963f685974c732bd7613002069e4a69ffce003d24be73012eff110facc9d",
+        "mb_threat": "AgentTesla",
+        "file_type": "iso",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "09e9712a5ae495b06a27e167cde9f767d341788cac0c8f1b505cb1e114ab3946",
+        "mb_threat": "AgentTesla",
+        "file_type": "zip",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "7e9e014b4127363351ff22d500de90a9872a8d8fcab328277fabd7fc1f4b5c6c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "9b9cfba2ff3b094cd28f4483e7520b07ea46d3e99f96f173835c81eaed289221",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "143a2326b275c13034fc38600d46d06dd840da5a988b35b0a86ff217eff81c40",
+        "mb_threat": "AutoIT",
+        "file_type": "zip",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "1eb1ecc1ff01e9f4934a79daa57db69c96f975b90d649429417c560c1d36bab1",
+        "mb_threat": "DHL",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0b0389e4c1f10939013c69cd3b7acd17651bcc79eee2bbc1d3ab999f4428df91",
+        "mb_threat": "DHL",
+        "file_type": "gz",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "699b7291b446246d268f68184c6bc94535aed8a4c3ecaef41f4e66806f6d8a4e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "a6c64dbdbcda190ce254e19f4584154010871091e2d3d64434be1be3863a2671",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "4ebeb928e56c30dc2fa722e5ae1e41181bfae00ce0466226bcb7d17a7dbaaae7",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "6a3e2eecb7f7f464c57a7159570d2d55c6893839be852af898089550265f5dfc",
+        "mb_threat": "cmd",
+        "file_type": "cmd",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "f1d0eb2c8891248f99cd1d6ce9a8adc218ca761b5ac2a92e54242e8dc4edc864",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0f8e87f65705a406bb28704fd4256433be699f8aefd70c1eb11ee561cc27c6b8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "2a597efb320aa3623d1334017ab18e1df8a6d25ae5455dd735ee20072844bb38",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "008653065299f1e96ecd195fe23948cc3976210bc8d58ba0e1456db17270154d",
+        "mb_threat": "Loki",
+        "file_type": "xls",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "665b8dea01643cce577cc8cc6cc1677e78cbf4559b7c0fbd0446dee65970b4ea",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "f91952cc14cc13a7d831e1fe16a019b8427b0541792d1d6e467629716205484a",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "d4285f204614a02df0ce4b1e6e80f402057495dfcdba66993fb94ad5e686e2bd",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0a9a1a3c031e0eb6c938510830144f26f88effe94230b1467e09123393b99650",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "65c1b8d5b26a02e87190f742c3d8b10c381f402857f6d76bd44a54c95b043ec4",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "334dc75798844588b8c21af661c628627585b57df46973d762d7d930d4ec57b3",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "fa20559cbae909b4b7307dc6dc7a10ecd482af8ff4f2fd588f950185d5695d8e",
+        "mb_threat": "alimatata-topendpower-top",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "c90bb9ff7894af79b5f98b328712d1d8817d8e941b1cf70805706902ed5a6457",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "212e4c51115bebfa69d6d30e01d9cbfcf1546419d776cb906f7afd0219c61499",
+        "mb_threat": "2-59-254-19",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0080ce04186ec4c7492a676c80136e84006b1dac3558f741ef4b2822251b22f2",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0b3086effd8f6fba603ce006970a17242a05c79e30acc38b61b50600558e27d6",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0fc20cce6837bf4c422edb29a17a139d282a036d9cb68abb1b8290a694dc8026",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "20ae918236cf658ef9fff19ec4db4969b81a66e41748640c2eaea70ccbbcad23",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "42d59b1e16bfe7cabcd964b6eeb487fede914bea5290aac7fcdcef636963085f",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "c99dd5534b0e39167b1e995ab122665560815fa208ae07450564d82cc7b46860",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xlsx",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "d3e989f804393e78ea6dbbd695be438350b450745df755f72139ab2d5c0c516e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "a7a2151c314a329c44df6d43c6f2757bd8994a5c6ec4c7aa1e9cb58713796b2d",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "72d7d4091c5455a385be1415a5e0653cc793ccb4d6efc4adbe17d2665b27af7d",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "43d6dcbb19f1709f0b2bc34976e2b7dc05d2927cd99563cbefd2e9195d0f412a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "182b232a8e351f61a8f5c87aaeb3f445720f2818e566b4204db321a2e9291696",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "45306a9b72cc0e585f145425f6baf79a22396c76c6cef2f22e0e5e990175ac30",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "7fb59d6aa9d981d4786c608f49c8ec89f8e42e829ec7b15b7d5d4d40edc5fbe3",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "65acc93f4a502f7efbe10313ed41bc436425ebe172f3974883f0ecb6d2ecbf3c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "68a48f0f9bf0c11f863e292e31a0f7a4ceea40538b394cc117a99259b2179b00",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "419cca9bccd0fa8919d3e2edcd18df08fbb066b6a3b21302e471d31c04cc0d10",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "498d4a722e4d8cc11a7538d74740bdb0e74617c6286564e8e937c1130a60d7e4",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xlsx",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "f276afe84161d7a1e6026886968b8577bf34e7daa772cfc775e876236398a7e7",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "0dc69e491c783527c6465e25b8b33447391ae9d7ace6e4c1c20db8047aa1918a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "e3671a89c420d13fe9fd5aa0f82f1c9ccd715d6add35941b84f9f5ec395c1902",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "82c928bd012d1188bc38674fa48134723ff61a198a47a69b47e00c51efdaee0a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "5c6cc2867e0257627d62b4af6e6dd845321e31b383b26796fe82db3a8636ce91",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "9020a50d5dfe5b11c0bcdd1d2c73347de27510eefe67d4d0f37d8d50fe8f40f6",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "380265b82ef7a370c15289a465dd7e7ea094448ab20a0be51656ff676bbae616",
+        "mb_threat": "exe",
+        "file_type": "zip",
+        "signature": "Loki",
+        "category": "unknown"
+    },
+    {
+        "hash": "2dd42412bfac018f483e116e12c5b40a0930cdede6dcc1c6bb406189f5a24107",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "52c7cb1b79652bb317c68fb4173010bbbf937ed09af679802622c5ccfb5e63eb",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "a6d173aba832f70e476eff7b325f7216a90a72449a02cf53204819cc48836e22",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "c4c9d191f53e1f2a4a6c05a35d0354719b3797192b7d361375f475302c7d3c9b",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "4172ff83b7e93674b9eded28b00533b7f069d6704251ab80d29a3ad7d6b9e92d",
+        "mb_threat": "AsyncRAT",
+        "file_type": "vbs",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "dd068eed57c2238760f2f925cdb0ce1c016c44e9ded3b064a39961df200018de",
+        "mb_threat": "AsyncRAT",
+        "file_type": "vbs",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "45389426978856331523bb108d44291b5eece2bb3c61d4b4ac1d7abd35641680",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "b20d623d8f905d4344d6849d640423d6c5b5284f719accdb9f6c27c36e753d63",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "4c9d9e12a691c67939525cfbd4bd416ee027602113dd8159e847aaaab9bdd6de",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "35f2b6cf64cfe6e60064d9569a8c7ff37d232cdc982c8916531d44bb09319e96",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "5c1db764ce845b58a7694b86ef6be0f95614779798ef80546aa9cb984ab79fa2",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "df77882b491689f9e5672f9be082dd390d979dff8a0f7839fb301d629c14b533",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "d90e46cbdba6a5fae2cf4cdddd1764470a804924e00912e24308c71f79ebc622",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "535c4d75ca269dcf0a59309d9cad1bf6a70fcab29059f1bce7f84376ffa39f7f",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "5ecd5bacff2c44ecbb8e8936ae37c65eb9c0801f191a4c5a17eb672f794ec074",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "e6fdea69c8ef5f6310de333bc1e35a4754e522703fb15604167d3cd8ee9ac2a1",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "86a6b570ee527db86f802a6e4e4fae142440665ba926782a1f9a50d8655b0715",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "9319bf7c13a73d02f3d385ea989c06116e91f5e023acbb613327145ded83a99e",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "241df0f833fb40db01d7ec055477cf1fb71360c34843466f0d2c54046900bfcd",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "8ef8ea431b2ac612a6a556bd9e663fc2887f9b0499cf811eeb8b106f6d3c28f3",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "1828531fbc67051335ec19f5e7ff29b3567afb12e3bd30acbb2e59f153728364",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "b2bf943f220397f11ded2b2b5992002f93be60605d91b8b8dfae28b4d862540f",
+        "mb_threat": "AsyncRAT",
+        "file_type": "vbs",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "b2f7cd8a8984266ccf8060b18823cdbe01a88f62b809b083b681028c0c11d793",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "8f1cd9f9d91183640475d4226a734868375f5b6cc15d8ed861ce711a589e54c7",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "ab698f4886e3adbe6babe8f2a2cd1324a8c06ef68227408af2ce7b1671cf5178",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "9970a60e3144c2478b2c4f62b38e7cb252374d9f7ef6197b0ea0e2cfbbd580de",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "61b1bf909875d0ae463f2f5351e2b5f2c969abe95150a805d73a96dcbb651379",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "ad4f3ba88a91f81b10b926bba1f08ccf13bc528afab09f08e30f814a15a633fb",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "654eb29dae0b3c0f992bd324f787628ab97557d875db96f16f7b60590847b02f",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "665c5e458cefeb7395243c3cdabbadc57b84d78ab4b411969677ab54c8a88fcd",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "85e630a240fcb06832fa731e1b81fd607bcacab06665a12827e014a3bf6a7a34",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "261ca704d693db3a77d4b69c1d28e338092c9cedc42b2f794d0508e4515a79b6",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "8e09b0322b18cbb0be8a32eb58374fac7a1868095f68024f87c41e89649c133c",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "4a2e4cca2efac0ccf4a7c8f2b5e4b28f95536ec1707c26127cafe215c1280792",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "08e138cc388cffdb30e15d498e6b4a3c0b8e53fd15b15371dd6be85be49ba3fa",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "9635a1485df837e42d64f82095536ed45364d6af1d820b8107855e3be352e1b4",
+        "mb_threat": "AsyncRAT",
+        "file_type": "js",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "a40193b7b352fe3a14cfe1ca65c9b5250c663f0240cbcda9be70b7898e57f31f",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "3efd75280f8f0c640d174d0fb55df5f3d17a10c4248bbb705281bd74bdf2d381",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "9c970c29df4fb1398940809e6e7a9bc5088eaca54eed4cdd878c06fd0ed030b2",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "2f354cfa595f102401a8f160208dcf6474fce66b3b80673a5f3ea6e2c25f8c43",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "48c8cc4947d4ef59bd849396e84a52493ad14cee265d2ae772ca4ba173f6f2cb",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "1faec8bc823455133b1bbfdc264a23187752411c981e5e78da05730fd5fcae40",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "05d6f4e462065f3c5c3710775f15f96d333ff3d35ea7860536c6208ff4c2f294",
+        "mb_threat": "AsyncRAT",
+        "file_type": "bat",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "ca243e16148289b90bcb2aee876d54f7eeed997ed08578f99d3b0fd5245c2a55",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "3521caed0b797e91e5b7799797d1bc8a19faedcecca7ae2d3f069aa042937169",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "06c4acccda31358fd172466d6245f827c2b5075dec6496516286f936f22ef771",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "eda35ef9c1d7cf112c5c051af7ff0ac959745db989ea446911313b3e53f8a751",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "c5abb8f607614ec7063c3a2d84d26f444ae82fc60c9d9ba4d3e13ff137594cf7",
+        "mb_threat": "AsyncRAT",
+        "file_type": "exe",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "89e52fa31535e46b5f08becbe1c591aff709036554856e6d250a503719081705",
+        "mb_threat": "AsyncRAT",
+        "file_type": "dll",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "4220773101860bc41dd86e6bf2e25df445de1135ab525c868f4146913de5566e",
+        "mb_threat": "AsyncRAT",
+        "file_type": "ps1",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "47c6ba872eea70cf59233fabbdb6d1978cfc7c5602d4710b4f3d123e91f91822",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "88bf2b111d33ff40ccb89dc61ead7385a1a3d134bd88946527b85a9b36d34036",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "cd6d48db36adc645d60d4e68e6e154f08e4645eaef277c373ee116ae3bf29813",
+        "mb_threat": "BlackMatter",
+        "file_type": "dll",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "e90bd4ffc09f362b480fd8b751fc055476bb250e33236230d5058bc73c04ee36",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "a61687dca6e71baa451a3ba677299af8c0b8d576f7e348609aa43162ca550dc3",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "637be4d4df565ad9299be22e19deacaa343f05d56fb9ea0a201fb012ac8f4df9",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "032690f113289d50b672fb3e95b64c801454e8e07fe3cdcb072efeaabcc7a374",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "bfe5a9f95eabd077326eb54b3079b4f2d1739952ef24686523045c470bbd6152",
+        "mb_threat": "lockbit",
+        "file_type": "vbs",
+        "signature": "LockBit",
+        "category": "ransomware"
+    },
+    {
+        "hash": "7df420f9c3846e357c6667378c6430fb32f9c964f4cc48838e61d2ba1d019519",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "4dc06ecee904b9165fa699b026045c1b6408cc7061df3d2a7bc2b7b4f0879f4d",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "90b06f07eb75045ea3d4ba6577afc9b58078eafeb2cdd417e2a88d7ccf0c0273",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "180e93a091f8ab584a827da92c560c78f468c45f2539f73ab2deb308fb837b38",
+        "mb_threat": "chuongdong",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "7ea5afbc166c4e23498aa9747be81ceaf8dad90b8daa07a6e4644dc7c2277b82",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "374f9df39b92ccccae8a9b747e606aebe0ddaf117f8f6450052efb5160c99368",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "dd55d238ff30d685f2f5fa84cdd7a5343963dab0f81cd997cad57507af35df6d",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "25fba0e92d00184dde662c7d30aff006851dba296daa6f6f82ce797b66789ed2",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "47aa84cda2854d32ed9621b6121281069caecdbe7f0b665183aba0bd4db3d729",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "bdd635b9c3d3c1e9871b3e6b917f33670c5ad8fe36fe90e8ca4714fbd592599a",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "7a42a2591858a6901ad37d4669a9c9a78a981b1d670c3dbfeef23500eae972c1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "daf55a9d48dd736fa870acd24cf4ced89b079544051d3bd782195ea9b96d6397",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "f53f84ac24e0ae43cd5b59a0e031d6423f8dce2400d21e0d59ea5511b57f256f",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "7192f002384780797b689dcb8dbed4b1016bc2c1a6c9b3cebbe9bfe1fc05e822",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "33e5396c26b5fff35264d758f66244d54372a93be3bc83a27bb1ebef58b1528c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "593d89afb5fddfe947207dc69f93816c665e480ecd2a78c9eaab108b9799691e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Worm.m0yv",
+        "category": "unknown"
+    },
+    {
+        "hash": "72cd5155f579dafc07836de6d17f096ce820fa3d087035f23a344b4530f63f09",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Neshta",
+        "category": "unknown"
+    },
+    {
+        "hash": "c4b27044ec7b2f446d05421b1d8ae42d3e6b3c1ae67f559c3231bffa6785b284",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Expiro",
+        "category": "unknown"
+    },
+    {
+        "hash": "da07675216728cb7d30452040da92a37bc235b01433afef3c58471d5d73295fa",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "392f4f64305a84b2c1451761f931fe21eae4a1329864c5a83c3fdc8356b07ef9",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "77ebb550f38da3f28a65940a4c665ae3a679249ad906aa39387568a1f7ddd3fa",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "bf1c0e2ca07484fafc27ac89aabbcb7b8ddfbc271fd8e6f11da9886e1713615d",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "771a06e3a1bdb42a7249d1c888e740c2bc46ba30b54490188c17f6c84ca96e26",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "f734bc911b2662cc5fad02e4750911bfc9c150b14735c3a984ddade48c3eacd4",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "de96af271bf52bdcecaaf555a711f8a1397ed4b8be0d9c16f483253d29deaf62",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "9a007e70a934bc617f93d4c2ea08f2b7c6238562529bc90d89c990bd7d2983c4",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "7ed131e9cf7d7f87b0c7e95e121025f35f526c927e8dda59196c9022870193b1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "251297b055aa4decdab1a1d8e14ea1331bcbe00974515a647f55b0e0c23e29f5",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "3e239b8776d380eb691c859a376977409546903eba4ecd02dba754bbf7d6db61",
+        "mb_threat": "BlackMatter",
+        "file_type": "exe",
+        "signature": "BlackMatter",
+        "category": "unknown"
+    },
+    {
+        "hash": "67ac04c1b7526288194e53da33cc0e9661687fd4fbbf12156e5ef6dd2a4108eb",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "fa03e0cc4ce12a16be88b229d9dda6bef390697137318456206c4406a90a4eca",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "4f76df691e2ea292b56812eb3167efcab655382d632048ff63781f5d41f86433",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "9733092223c428fc0e44a90b01c7f77a97bb1205def8be1224ac68969182638e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Worm.m0yv",
+        "category": "unknown"
+    },
+    {
+        "hash": "43b7927b9f8669bcee4717a6902f404eb6f6ec05a4be2d59349400eaabf01ad5",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Expiro",
+        "category": "unknown"
+    },
+    {
+        "hash": "4ff3b5ae26ae039c77e17e057cd7a05556c13c78ff47da3323e4fd3ef2c732d6",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "0ace4e1158ab5b7723493f39d6949309e00e4a71804f0b09e33d5d48a28cb061",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "21e51ee7ba87cd60f692628292e221c17286df1c39e36410e7a0ae77df0f6b4b",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "LockBit",
+        "category": "unknown"
+    },
+    {
+        "hash": "69487c2f91495cfda293735fc01ac8d516b48359171e3b53581ccf3145bfb527",
+        "mb_threat": "lockbit",
+        "file_type": "ps1",
+        "signature": "LockBit",
+        "category": "ransomware"
+    },
+    {
+        "hash": "6adb8f7da4d7ff92c40f0f8231c7469865b170b440be5f2789724a2abe005b30",
+        "mb_threat": "lockbit",
+        "file_type": "ps1",
+        "signature": "LockBit",
+        "category": "ransomware"
+    },
+    {
+        "hash": "82d89a75d80e80e4be42c9eb79e401558c9fa3175648cd0c0467f2de1a07a908",
+        "mb_threat": "lockbit",
+        "file_type": "ps1",
+        "signature": "LockBit",
+        "category": "ransomware"
+    },
+    {
+        "hash": "0c516038b8f216fb87ebc0d4335fff4013c9b2a80c682069071ec9ae9e2005e9",
+        "mb_threat": "lockbit",
+        "file_type": "ps1",
+        "signature": "LockBit",
+        "category": "ransomware"
+    },
+    {
+        "hash": "dc498e513d71c81a2d5bcd0f39c44d474457342b8a6de203e85d6b8350d8a247",
+        "mb_threat": "lockbit",
+        "file_type": "ps1",
+        "signature": "LockBit",
+        "category": "ransomware"
+    },
+    {
+        "hash": "8f88a31d389b61548519017e9368119657beafbbc357dcc090d9a8bc8f95bc32",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "556c002aee304a4492f240ecb287c19aaf6fb3fc3983b8caf92e1dce9fb3e0b2",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "bf293a4162dcfda272b65d269650607fbd9f64463b14a0d3cda5abb207784805",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "65335eacd393170f0a1117926a19f3404c9a67e09d9ccf8a752fdae5c3c2aa77",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "797e24701c127da8425f8fab47c569dd426fbba6dad1d1b916b4ab450b4d2791",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "2aeb12afcb6e7eedd462e05947a8973faa1e334b73646901bb5a66fbe323739f",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "9a295f144a635f69749c353220f2603450cfee2ebe299c9e221325903e9e0280",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "cc02401bd56274d211d97e7f234df09b28142189e3cb91df798cb929a0ecca4d",
+        "mb_threat": "GuLoader",
+        "file_type": "js",
+        "signature": "GuLoader",
+        "category": "botnet"
+    },
+    {
+        "hash": "42a575352719a76034cd3b2309ffb99728f2be97698a83dfda3eec2b8495b1c1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "a7bfa5f42bcc9078688625f6517c6eabe4f1f83abc2e28a60bff88a1668aa431",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "d3e7a3c65f422312b5abba4d182521d886ccf29cfb93ab3b88650206364c685a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "85bb77ab50e307210eac33967c69a15d31f38277ba82a88020eda2c972100f19",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "258c637a49e90a8ed3ebb9b9bbb4b0edd1f6d884d8cab83de7907a67d7ec3e36",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "5421d0e8b30d3e120b81f571badf3b6ee7352bc87bbe40367698065dcb8ad8c2",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "2e7af1f215337777ae33c29d8c5c3f9a04eb8e33427e8370d69b75efb54b1eba",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "75efc5a6ef53bc3248c347b26adf208851d643ee054a49e3da1d2c17905ef7d8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "f7854856249a9c25b14f0e8231cf46bce738901e78797f48dfa51474aaeebfae",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "c301f73e763173ccfec4bef1df2f9ea35e5d483cded5bc6d87813bb0df53d1c8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "d435697027462bea8a8f4aa24d35389813c119d8ef8c0597b3c77d085931f231",
+        "mb_threat": "GuLoader",
+        "file_type": "js",
+        "signature": "GuLoader",
+        "category": "botnet"
+    },
+    {
+        "hash": "f715d6b481d6fe16d630b2318d73961ee4a1ee2050aa2d71d3037a14f7e44ee1",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "e5f27e59e5190c8d4dffe73738692a2415d931584d10626f67e3a69e0feacaae",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "82d67bc03d1bdbe0a8df5a4838f4b03d4e3d26f5784fb62744d792d5d2ae55ab",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "8f0eb8904bf7e5d851a5dad363c6c9523de8006cbc8b6f824ff7647a582c80ae",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "68db7504dc6689ddfa6f5ca341c824f1f34dea654ad653153be12b0dc2c768ab",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "d5a9518f65e537df37484b71362c2390c3f0751ad7f7b1388552d4ae8acaf2a7",
+        "mb_threat": "GuLoader",
+        "file_type": "js",
+        "signature": "GuLoader",
+        "category": "botnet"
+    },
+    {
+        "hash": "24a45d0b7b4fe778fe67729da5b9577b79bd42a847004110406fd57efec03ecc",
+        "mb_threat": "bat",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "eed38cdd5e1cb46655f11fb5ca3d55d9ed9df1e47ef63781cbdc0370d9df5e22",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "7e72540284e2469fd10a11a46338a02fc1a25f7e681211248f95dbf01c9a6d8a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "01d7a671885ca694434ac2dc2a1612dee663decb7389a258006ff194314c0af0",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "44887812f1f0fb51e5c691e1e9fbe18bfc3717f2b766f0cba51b38cfc6e10427",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "4a6b8d26d298279a62f2a27aa6a8a9b67db22a2195f9e4de3c19dccb0a0f8126",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "1dcab56a0998fc7228c2ec8ef6a4e9721522a9fa94a2665ed12d63d721db5b23",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Gu",
+        "category": "unknown"
+    },
+    {
+        "hash": "8086b646c055109fed8ab642f07fd97920a86e2bef8b5eef34d7e2323add328e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "20c650ba6fe0158bf49bf298711fb95f5915dba704169c2443bf921f4852e9fa",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "f3a1a67e646cfa12e62e273c6e57fe66367fccbfea538a02aa2c66f4669e24ca",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "48a0c3b93362dae744c054e94cd1e62f6e02e5f0ae8b3b48ae0ca24c5da51340",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "9e404757a4db3b2a4936ead7fbdc16d48593a1fc00bc14d788b9ea99da0e64b7",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "bcbbc761561cfebebf30e13c8894e48ea6b2f9e5286c291118c75ae6918c9d68",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "eb839d728c15bbb09bb2a0a5c5803c13095cb3e46d3faa4b39936bafd9543d58",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "fd47d0155c7979a735fb0a377cb48198d714df851ef9d7a09f6a47349ef867da",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "e332eea4b6dc0e3623dc1aa6d33db82bec7264b4308b2d2d60f04feb8c4ce810",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "64aaa3dc6c606a2c1b6015db31526762f465ce9b347d06e2cef0420cb6199a5a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "dc19c97f006376ebb5a3173aa30104a98f3abef2ee5787df69898afd37883e20",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "195bc09ff1b365c0dd470aeaa1bc86f989c09e424fffbdfdeb0bcb2331385b28",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "a46adac4d1cf5bd0e5c1600ac510666628e821c4618b5c9566d0112b505b6b0e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "a11fda0cdfbdda4013f8d440b58ce58aeecc9ea09220ab87c6a08cf154951575",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "37aa05adb1f5408e886287c8b1ea074315a42ece0d47cbfe6678c26b6c396deb",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "6e75030c0166aac5d9b66e92d603721dc0bf38e5a1a2aaee31f589ab3e9edc72",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "31113f22d502f729d5fe022e54d1fc0101056a25c622c4b537f5fd1b98b599c8",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "31a6b7c0fff43f956bd590b85502b6da248574fb02f692aa4f9fdc4cb88d5197",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "GuLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "1e7c0f7091e8ed3687b06556cbbda638af99e35d372ba257cedb8ada4b2c43fe",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "a83796aa471d9710b44d2ca9196d990b189cb9cbe1846e688be8660c5a6298dd",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "b70e78971fc44f8413447139afe777f19fd1b0d203f2d40f66f41cd6100a1c95",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "b800bf6f11170ff68cd552484fa144571069513adad2d75ac7462b126b5f0816",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "cb97e89541d61de376a4e041b66f80181811dfadb4b4d6c094a42632017604c2",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "a42e791719b6f5da7dfdda6156a1f5aa9d4eaff10ddfecc731dfa50457318caa",
+        "mb_threat": "conti",
+        "file_type": "ps1",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "185562f0321a292e87bb0d96fc2d4f2c613ae2d84fa57b87691e9e32df131d03",
+        "mb_threat": "conti",
+        "file_type": "ps1",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "8cc0af07f6a734190daa831d3636db4d88a5c9e74872ebcfb3aa9b5beea77804",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "d1506903fdc36b31f8a448f127982b2559e06210bb51579bdfa4fc61871c71d6",
+        "mb_threat": "185-216-70-170",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "unknown"
+    },
+    {
+        "hash": "d9243af49f96c8b66715287d0dc26dbd82eab8570d5f20629ddf9e5fe06c051c",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "efe36b1f343e3fc0bcc0099e2451f9af943c8c5365b01fdbd14d4ed1ada4882b",
+        "mb_threat": "conti",
+        "file_type": "dll",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "565ff723884f77bf7e744527b0eb736373183ce1cc6c6df0fdee4b2929f685c2",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "ff95e6d148e53e60b113f05bb54557315ec9b8af82adfaa276a21fbc561a9b77",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "d6c1d2e77ce21d5a026e7abf99c9fffe55d87b282f460dc737da231211a12a0d",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "eb3f700f8de227faa4c7fe679f5280203b709f5b88a1267f53167864158aca1d",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "c0a2e1ecf57ee83b649f1d8ff8dd37049865edc8b9a837f3b4ebb5e767229c23",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "c366c4e26ec3d2698a94dc04afb58dad429d6c28dff1820d53e277e108103f8f",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "7ccd2066aa7194f5ae343eb6fa26ac0db06e3380af47974f86a20f0db98f1230",
+        "mb_threat": "BazaLoader",
+        "file_type": "exe",
+        "signature": "BazaLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "1ba48c78b0826e7cd6a9d2a927e1575c561d23782a9c094cd3a9e6096297e937",
+        "mb_threat": "BuerLoader",
+        "file_type": "exe",
+        "signature": "BuerLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "b6baee7c17b0c7603c639172e6ff9f642ce4508ba64afedf969a3608204c64e0",
+        "mb_threat": "BuerLoader",
+        "file_type": "exe",
+        "signature": "BuerLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "91d1851a7dfd2133102df6f58b34823726796744e62f61e4181b977026b19d6b",
+        "mb_threat": "BuerLoader",
+        "file_type": "exe",
+        "signature": "BuerLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "4332bb07339c3096997fbb89b695afeb3b1e21632c8ecb4e144ec883d61ab066",
+        "mb_threat": "BuerLoader",
+        "file_type": "exe",
+        "signature": "BuerLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "db601f84fd39ba6be26e7a6c0cc1a74da424698244d9a1861b2f9fb980ab7dea",
+        "mb_threat": "BuerLoader",
+        "file_type": "exe",
+        "signature": "BuerLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "1e0215f67fb7b02bc44f33bf6a5b884c3061cbeb38e0150b559635458951fa53",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "TrickBot",
+        "category": "ransomware"
+    },
+    {
+        "hash": "81fa8a3bdc452dd2b279b61fed92fe83d65e650e06bca9ee4dfcf991a4a59e77",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "TrickBot",
+        "category": "ransomware"
+    },
+    {
+        "hash": "342f04c4720590c40d24078d46d9b19d8175565f0af460598171d58f5ffc48f3",
+        "mb_threat": "BazaLoader",
+        "file_type": "exe",
+        "signature": "BazaLoader",
+        "category": "unknown"
+    },
+    {
+        "hash": "de10ae21bb262728c616a707f90aa05088c9d8f2b810fc0f2fb1bddcf9aba938",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "a2581ec030e1fb08e26ddc61b11445286aaf7271932146e7e1442a49fff734de",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "837c0f1e9749121e4f8204c2b5546964c10d4e3d85a514458c35cbc021762d5c",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "8b57e96e90cd95fc2ba421204b482005fe41c28f506730b6148bcef8316a3201",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "bb64b27bff106d30a7b74b3589cc081c345a2b485a831d7e8c8837af3f238e1e",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "306ef92a9e862d187c890fc88b26b395692e93c2f92eaa6430c5de2177d269c2",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "583f35d8d15dd19cd1cdcc1e03f6b3e1eaf1fa0df452eb80868d3767292d523b",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "f6dfa1e569f6c7da647224cf0553694462c5717c4793fb21f8e1d7476f5f708d",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "eae876886f19ba384f55778634a35a1d975414e83f22f6111e3e792f706301fe",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "899cc5dc068f9a88fff19c92c4538ee8c464496ff6f83398c359dd3dc3926dd1",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "c743ba08610d442531bb897a35748ba6fe897e730cea6e29377ba21141901326",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "3d4f84e20d5cf317edcefcc98bdd7e126078b25cdc56b816edbec532a8763096",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "2ee6dfbfb2afd7442c9f2212eb142876698851c3ffb552ee420c0281e35a836e",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "139a8bb2c5537190e747d2f651b423147018fd9a9a21bb36281d4ce1c61727c1",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "fbe45ed19fa942cc5e767acc0ef638447c4aa4b52d4900627a0a0ae71d543bee",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "d29080809ab1fb959dbab1a1168e9b136aece03c7f91f071f7283aaa445e7eec",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "c5ef104253ed4c066104a184ab368630027831b627c043d63170ff8f89c6a2bb",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "746ac121ae024e51aa3129699cae278990cf392a661b40361d9d15b86635da94",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "8f11bb9536cb885bc57144392bc35e19dbc0f683d57c2c423c87a9d1c6d9d0ae",
+        "mb_threat": "conti",
+        "file_type": "exe",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "ff48dd7bebddf4d5a36c8ef9f5b6057172ee738a19182a12c06bdc20129da0f2",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "eb2b667d226813eafaf89ccab99a8a44a1da44647a0ab69c57b3dc21ead287bb",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "e863b3dcf6b7de76e34fcb990463830bc5810269937c5a32545cc059ab7da089",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "67b96ba4d6d603ae7dee2882f605dd4e1fe38be1e46d9c8a8097af410fe34aa4",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "35ea625eb99697efdeb016192b25c5323ec10b0b33642cd9b2641e058e5e8dc6",
+        "mb_threat": "conti",
+        "file_type": "elf",
+        "signature": "Conti",
+        "category": "ransomware"
+    },
+    {
+        "hash": "1b357f661479133d97cfd89fec1a6852f78c3ba86cde9c8325c6e5c91a437695",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "12464f68bb7e04a257ba9577929a5f1e9020e9b9a895dbec88bce4a4a247a675",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "69e0540c46b5141c635e4ee54e5dd13af1943a0371116b3ee72d2455efdbd867",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "738e40cdc0c1cd12b22fa8d7b4dc8c9b1cbb705058481c77d62f230ffa6fe5e9",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "b5f51211c8e9f426b4770f2ed4437a8354b21fd17053b0a6e686153ed306bd36",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "dfaf0fab55ed96a3676930e2ea84f64d1080543e4cf241b71356d3a63834c8f3",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "ad9093633b9ecaeea7bff69ab8d8781213fec82db6c7f2e963a40d2e0ee0e9ce",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "d2a4d5bc7b9b08ca86629720c2570fe4f72be477b4912acf065a39affbfe1fb5",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "dd396a3f66ad728660023cb116235f3cb1c35d679a155b08ec6a9ccaf966c360",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "f2dc7facaa4defcd3b28a6d50b9a51d23baaf25be7b56b4db0e8a291195024ae",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "22e7600d3ca95f88b0d2bbaf46167dac38f6b3b119f195e74a7aa961f906b3ce",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "f9bc3826335bcf6a03da3b8743c2bdcbc7747962786a83c90fd2b1d3c8b85353",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "496eee9f60b594a19b4c773b94b9c18f9863339f51280f1c90a799769eb24de0",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "a3161c883a81cbe903b259ded89c4ff0130806583188a34b93bdaf2116a33e9e",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "5b15cd544d3b9bc4cab21814d46fb1eae2b9ec92a6865fb35fd5eb37cd9cebba",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "0f9667bcf85d4706f81bc69ae26a7d182a81aeebdc830ce8795c75c73e6ab843",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "b5c538f89ca2e3d9a8085bc387d85f7f50e9470975ffec25fe040c26226beccb",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "2c3804853d63043067a602c9b5271831d7c8b7b9bc91e39a061e28135588b6b3",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "4bb178da0a560d36af39e243dda93fe45446907a00009210abd6ba1a036a600c",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "ba33ab723fdac923f508eed7114aba2a370c6b7ecd3639dc588cd8fc0c865f34",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "270ea6a72a4f9ab032ce73bd2ba9e9a207929f0d4041e2cb298a650d4d2062ed",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "21530a8105de2c1d41dc570a51d9e23b2fb660615af9bd05171a04f383175895",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "473bfba1685fe3047cc582f18e36120c1b55449363834dbafcce003a89e5864c",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "61f05aff1374c6463483c324bbb5cb6f946880b2e4f55eecb65237f6567081f8",
+        "mb_threat": "Adware",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "unknown"
+    },
+    {
+        "hash": "77255c63190699619de534481a2f87f32a7476297cf87b145d941c5600591996",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "bc77cf4119389ffce479674f64d1c365141507b4324064cd31ec78d9f3f90dc0",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "d9f20fbf64170d65d1a1f2fd66a997913cab8ddb1389df8b1fd1e7ae0f1d0b5b",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "ea08fba535ff837c953efbd7e664aa22bec2f4784d2d66e3dea3b357b705d973",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "cf2a367d81953b406070f9e02395697d759bae23c9d07e0587ac22e17aeaa234",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "5da0116af495e6d8af7241da9b8281d918b9ff9a98a3deab4cca1aec1e456c18",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "8f856e9882d312f6a51f265796c6a68c1914d1c51c59fc1964484fa5ac130f34",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "54bfc5ecc75601485a8ba49c299ff12016666ed53475c85fcddb82babeee2719",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "1254f59c4d71b8cdf0601467e71c8d868f14195b9b27479fa82d19f9eb7dfc0c",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "83eaae959cb35cd1d132562c7d49285abedce511c9f28244894aba725ebffe58",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "cb6d55ec949fd1539f519fe227ae3e9968220b7691420d78d225236618f39f0a",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "9e36a5c5cc91e1eeb3c69edaa1b29d211e34b0e8eba81c421b0cb15bd5f57e0b",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "0b2cb44ca93dc45f099ad395ff46b2e9475e539ac8aa5a362e07f5f9f72425f6",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "0ac763391fc56711f3df8e6d6c047bd299c2b7052a69fb66a43fcab1c1b74826",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "b13a4e5207954eaeb6aaf32e333a4f366a86afc0779406c9bf17805d5b83e2e9",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "21314041b5b17d156a68d246935ab476d3532a1c9c72a39b02d98a6b7ef59473",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "37a6ebef45b4c6b9a635fb2c1152bdef53db3c6d749824c84d8cfe1e79d6df4d",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "ce7792ff95dca6cd5b06083acefc42d131aae24000a4fc1c67da24f083da9c6a",
+        "mb_threat": "77-105-161-126",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "unknown"
+    },
+    {
+        "hash": "44ef17967b82842517eb8df06cb26e13f5a9497d86c96efd0413034ceb0f3098",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "b84004b60d9ee0ef798bcc43f8344f06bc775198e04b707eb98f79d6260895f2",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "2f54973a5318c9c54fb9cee81218e6b594646929db93a1f5bfbe79280ea23a16",
+        "mb_threat": "89-40-31-232",
+        "file_type": "zip",
+        "signature": "AZORult",
+        "category": "unknown"
+    },
+    {
+        "hash": "3618a9475bc85cf9ac8ad4aa0224ce4e3d38d1f0b5edad9ce6c30eb8ba88b695",
+        "mb_threat": "89-40-31-232",
+        "file_type": "rar",
+        "signature": "AZORult",
+        "category": "unknown"
+    },
+    {
+        "hash": "d90bf2a4dda2e45cf2406dec9e3252487029347d239121a388675cd7580f2f53",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "e26acbf0b90fad1649cf131bec2dd9cf59352ee32545edd077fed9248fc2029c",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "913ee402508d3b9e7e55e1051f16a358ce78c19b4e07c6f234f4b73602802fa1",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "4593213d8126635e53fd87ed0e553e2b412cb218fbf69be7a78a6bf0d05a0777",
+        "mb_threat": "AZORult",
+        "file_type": "exe",
+        "signature": "AZORult",
+        "category": "stealer"
+    },
+    {
+        "hash": "0628ad6d1fd836b13b22e75fa169502d8ce78b7ad20f0261eb5151da98437bca",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "CoinMiner",
+        "category": "unknown"
+    },
+    {
+        "hash": "e9630dd62cb4a53f759d620884205b2c6a1fec90cb65f2c34334488cc826ee9d",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "afaab76f446dc734de64c1d94e0dd1ae850a01c69fde12ccb98bacb98df82e9d",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b1a8941063751656e11bbc6ab44d348cd6795d51bfc890424595c4ac76e52013",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "27b8eeb5d1b46e1afa170b998830fe0958f08a2a9dfe7130df607c86ad42fb33",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1bf9c16cb7c1faae7fa99a57c5d091cbd1e6d5f3c0d79693a3b0990a8b58367d",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ca6271b212c627dd6e4372827a0fb316023fa35210cab7249d634379af6d649c",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c794a6c7506b9f5b40b25fc108267a5b90e300cba69d175d40829615815f43a8",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "3522b20d6461dd3bcfcaa85c30e810f515045331116f9ff92c6555773342c3f5",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "d47e517027efcdaae2280f6661fdf85a8429db585939776706e779fe2e373f0c",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "d0a79f28baec2beaae749a8d64dcc4d1a79cde6982a72ede58945a843b563955",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "038ddeb937e70aa8e1321f55c5d43b18f4cea9dd6abe63f43141ec22ccbe9825",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "4064f42a30b85220545e4a43672e374ba879b36b3d79c4a5e2324a3ca1f6df8a",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "5c15f4808ad986ff87797ff8d01120a5016d6182f08788db73072bec43d53814",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "de7d54276047fc457271b582a378e9599ce0b3822d4e9cb89a1260f81a3c2644",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "Triada",
+        "category": "unknown"
+    },
+    {
+        "hash": "1daf7482d700536bc5dfe45c763dad99123e41f0be205415d708b70e6dcbfbb2",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "fc075a04586519306868d0089966425e7824be432fc74a1d9e8fa1a5358a1bc7",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6b0c56540499051ab350a31f417b99859da7ed7286b9e77503711c6aabafbe03",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "283b34c5d64049f8908f17a4d7ad4a3c9cb477f6f6d741466807e892e0f4fb37",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "e71cb65de592d4bb93dd3fd515185f4078c8cf845e8bd36cdd02520a7db728be",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "134327faf84fd493b16d027af9958fa93fc1129b6053c5eb0f372ea518691138",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "ProSpy",
+        "category": "unknown"
+    },
+    {
+        "hash": "4884b82a8bc03644d202b573d70eca01fdb89081575503dcf154b6f4061a5f4a",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ac66b10b91edd97a66d9961e4fb13d3e01cc4630dbd882caa7e7a5711ca18cc0",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6752bb18b980918e9e566e9abdb4ed5743cb286d489ac4503ba292a583197e7a",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6a94280f9c63fc30646439857e184a124722950dcd59a0ad8db8616f0d66fcdd",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1a91660cae8d1154e1979f31400b8956ed7e548586f314593e3e0f639838cffb",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "37aea8c8ed8ea55d23da37d997e82e6cc34bf80bce891378be7543adf6678ea1",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "e0504c88094b3f42859443cfe68ab2f805264f2230d4f639e999a083277e2bf3",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ea422e231fa17116d7a7add97bd1a93770792a6c08f9e696624a78421d6c728f",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "63a19cd37e5f23ba982d004e587472bdc30d64af04e1b321419d8173a16c60cc",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "7d66a60bcc92d38789d530fbaddac8132b1285ae23bc51e51d929b1eec7ce8dd",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9cd9c9469367f2b606f237ffe83dde2a4e8dcef74106f8e8985f4c9bfef202b4",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6373050c7195670f6d75966c2a9518ed2f1b04683291bebdf8cb55c62c2389b6",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "2113d39e936e92d387a2902ad112e3cb01bc66ef301e199a03e8d644bab61b1e",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "Joker",
+        "category": "unknown"
+    },
+    {
+        "hash": "31b0624d16882eec282adc3817b18e4c8b3c80a9dbaa82e057a902cf7a27732b",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1e7ebdcef5d6a5ab149872c4fbe9c23ba46e81b19e902350b77d645ccabcc1a4",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9a607850b33ca84a9296d280bcf10e02541d269e3723c003baba8d279b0abe15",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "db11d9b51d90d23e5769d5f6dd738adad56acff41555698446926804d5396962",
+        "mb_threat": "android",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "aa56f350882ce63429c6626567487b041f06168bb60f4fc371a262eabadfa660",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "CoinMiner",
+        "category": "unknown"
+    },
+    {
+        "hash": "a0edfa97344c870ee24aa7c008cec40e85e616c21e86522b8f6fce0324b356f7",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "35142083739865cae3d077b2bc96cdc348f871dc7d0d9d3e2bbfb27a91b7af75",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6ef32b6c01b2199a6be9339006b58f6af5ec288d9249ebf649ef6e2eb7a34d57",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "327a404f2ff2562d7e7f49e9fca68bb814128eef47dfea688680de3da91b04cd",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6ec2aec3151feaf7b4c6c7934e7ad601cca984266f0604b93676ae698ffed738",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "7ad0ae4494675c5412b1abc00a527d8b568debc01b148d2d16e7a55367e28eb8",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ee9eceda9522ae4c5ff3e07aefa523c61d50ebb9aca2808e0f4494a8c53498ea",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "8a8121b8aacd9275d6f52042acc3f4523c5578dcf8d23e335866a11c43c5be85",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ad80d55e20df318c575950e4d1c00b40a8ed78baadd4f6b5c701b28f77f551de",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "d3be25a24c99610e44eb9167c6592583ceca6e238709122f42c99c99415debe2",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "4a7b11e680a27611b1bd7ff5894408d1085bc9f5ea47fbea8c28e2e191e8eb9f",
+        "mb_threat": "apk",
+        "file_type": "apk",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "8e53683133e7e1ddd1d8728b6ba8b9b80ec40f6772422c8adc8002bafe553f7b",
+        "mb_threat": "CVE-2026-21509",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c0af34161bd30a3eefe50cc4a9b18279cc0b09f88942de9ce8728dc832fb877f",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "240821416fe1785124e5e24fe953b8b87b4ce2798f296351026fab8e80726aca",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9786fd636d0411329aaae1e7a0fd4807940bf26753d826cab1817b7213fb51cb",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "f81e70c6951855e27ea34f60a6a32e55148a3a09dea84a3feacbeb649357ceee",
+        "mb_threat": "CVE-2026-21509",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b32e609c00614486f6ced399ebcf870c43b59d0e299e9431dfc36e39b390b2cc",
+        "mb_threat": "185-82-202-150",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "94d29083967a595e7b9c3c73cdbb62944b25b14addc932a76d530c8050e40bd1",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "0134b6f54e0f662f76082cb4b131096d540f71ab4abff93ef0a99f5e97b1f094",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c4d3ec9f65b092cb2c8b9a8b070f4b4a8c62c1009d51c2d88e40ba23047e5d0b",
+        "mb_threat": "CVE-2022-30190",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "603509c3e581d547616df569ead529f5cbc52df5197a38b404cc647352029cc4",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "1c8e8efb28bc86ddce2049fbedf4a76b5c3a50f63ae49066f4e8d9efa5d8bbac",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "0f188a5741c7753b90d4e51b6096541e018abfb3db33d502d718ccc29f89e98b",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "3399333d5145ba202fb5fcddad2ce46ecc9f63d357f9490d62a5d49fad112884",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "9779b841a22ca39777f4230bdc3a8b0bc9cfe5a4f34c232c3c22ece2c38cb44b",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "c4aed35c30c862c466e504ab4c0ebec8fb4c9a84e24ca02378378fb1693d1caf",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "78e22cf4ce317530bbefe5017b16423aa99bb949543ca905e983a1fd1b84fa9c",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "828a03e1a219dae9c5fc45dd92139cc6063dc01b3db7ae557aaf57ab9eabd80c",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "071207d36467fe346209d513ffa7366491479b6af4592d5ed43efdbf6007dbbe",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "9818172dd6c8550a50ba902ec59300f68f8caa8afcbd585d2d7a60353668159d",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "7dc57e2042ca79bf1b5bdaad3640dd59140c947968721d12cbaec59682d4746a",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "558bb6eb15dcac4cff35a953b35bd6b067df71db3d36c7b6f29f7f82fcd73fb8",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "d372d58a85364bdce80030573a91c3a51d1e06b238e973cf66e31ae1c4c2360c",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "7047dedb4a79f06667afc7107cd2ae57e7a34d65af6d1e9c418b74e9207a7638",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "cfbe6716fd8a4a39a17c9e7bbfe3e3baf48252d44bd4dcc91f77ebed5ae9c5f1",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "d49b1a337270ff054da831cd3fe657c4fb885f51d0ab4aadb7fa2788bae29fa7",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "02ec371868f200a73be422bad4762884f6aec9932550b9a344db25d7a8f32ccc",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "513a2bbd8758003f748f097a852cbfdfba2b65191db3463cffd2663f13f6da68",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "6da682d86a23652dc735e89b4c17ac6fe64d70d330b32a600f8be452d45bf919",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "Metasploit",
+        "category": "unknown"
+    },
+    {
+        "hash": "baad1153e58c86aa1dc9346cdd06be53b5dd2a6cf76202536d6721c934008f8e",
+        "mb_threat": "APT28",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "2943fbf0582b3cb9ab987554d7a1c26f094159e550bdc0d19764166b3e1d1881",
+        "mb_threat": "CVE-2026-21509",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1e54902649dfa5f7a8bab0461974444fb1f224294009030de740995320a6fba0",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "5486107244ecaa3a0824895fa432827cc12df69620ca94aaa4ad75f39ac79588",
+        "mb_threat": "APT28",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b0f9f0a34ccab1337fbcca24b4f894de8d6d3a6f5db2e0463e2320215e4262e4",
+        "mb_threat": "APT28",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9097d9cf5e6659e869bf2edf766741b687e3d8570036d853c0ca59ae72f9e9fc",
+        "mb_threat": "APT28",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "df60fa6008b1a0b79c394b42d3ada6bab18b798f3c2ca1530a3e0cb4fbbbe9f6",
+        "mb_threat": "APT28",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c3b617e0c6b8f01cf628a2b3db40e8d06ef20a3c71365ccc1799787119246010",
+        "mb_threat": "APT28",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1c2a0c68a471d8c04321cb5d4f463fd02f8fea18a9546d019a0c75669054bc62",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "46e0f6fd0f25b1c52b4e27979c923fb5a83bd8798c2a5580a0933aed5047be65",
+        "mb_threat": "apt",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c36d3088eec5254ed35d6bc166096e4f99024c60dd8bbdc7dc042a61bb5e6299",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "7cf91d9ab60d9c5caed19d3b54753fde579dc91941ecbc26a86f94a1c1733130",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "6d7e1e9d797fa68a5928d1d9b392166f8206d3965107777b67bcbe4c555147ea",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "c489aca5571eb078a4f49dca031cd30ede179b523d0b9e2d231544bb234b39ec",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "73ec208dca54b5b0a5221b6d2373fa8369f8ed59296b65e6a130a9899067f506",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9122e32c6d39fbff3bb2623fffc020766b185c2392b15b24c739b9c9e1bc23a1",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "70535e402e399e2743de32189aa712eeb0f8fdb4c2b8daafd01d5fbdaf438ad4",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "95993055acb0ae55633b8451bbbc0533dd6bf45bac6ca71c3feabab4836017f8",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "86097885c004c4d92d99768559813bc4549dd55dc793dc1710e7753783b364bd",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "21262bfa0505c909dd87d3572c10fcbd18212089cd503b6f9bdc4a37a17352dd",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "4df6230fd8d63d2364866be92ad8cffc07ef6b1c37b9373bf57e0924a319ab53",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "doc",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "7076a44c8d80ecd4bc34950a1b99607d3a6013a6b6770ffcb1d10595416ceb7a",
+        "mb_threat": "doc",
+        "file_type": "doc",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "273b58852207b92bdb90699e4be2a559430f18ab82fb97c1d0d3c21d3d862d70",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "79940efa2306d8d62d7ec4b8a30e708682e3fcd198896d508990df2546d6447c",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "0dae895daddf392b9e1998048fb4454f944b4d2fe557e1a05b30b643cad91240",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "3bf403c406a2db1446172783415ae79c87f179a5d31937e258eff16a8ba083a7",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "0c7d1ea42048170f7deeb59ccc1da5f8165c4a5594d2592e193c29d08ec527a1",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "4215dbd9fb380bec17e4d6693142f8738e68a690dd57b6769fd3f2e298812d86",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "1894c222066a2123ead5e5bbdaea7fbb06d0ce2acddf5da9ae4bd9969276f1ae",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "a542fbfadf53e5a6d3a3e7216fc0d9a24384c0bee039aab151c3c1a1e06e52dc",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "rtf",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "6100d5b684095bd7ffe9496f31e0376c4543822ef21e6e6b383fae25604e9a3f",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "b10d58f2bc40e8bf540081d8464a823821dc93068c9390bafefa5bfd47cab896",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "0bbf7cea6fb9f574c657e389e1e5d96925cae471aa9c31485caaecd22aaa91c7",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "95f69328694f351bb21526bc7970646af26380f2be3a1008ce58311c12d11f54",
+        "mb_threat": "FormBook",
+        "file_type": "vbs",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "e025581e4547aca8179eab4417378cdfef5621043850491c657a5436c4432774",
+        "mb_threat": "exe",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "157fad6b982c00a0a6d1d8bd93da6f0af0b7083185ed1ef5f6eae736731e4edd",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "815278833a20e95cd14f6ab44f46b46f2eb22d224742220bf2c4ad753afdbf38",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "915a73abac69dccfa57f93ed1a98b46669b0c4d9ff8ebd4552ba1243d33891bc",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "d08410a7c99152b4b46a8f6e686353d0a0a0be18eff6358322b72c28e43bda53",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "2b973dd6686e5fdc533eb55644bf25fc5deefb87eee67f325474d0be3cc53561",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "ac5d5a1c08b75129823ff12311b40cab133ad654b70fb44a77c8c4c6453f3972",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "dc266cd65df56ade7508b58528c42fde8f42f203c03fa28eecdcd4893a2f4448",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "770165df1cb9509cd4a8b726d1132c0cbf0161d50ee2649fcd27bab024869a6f",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "528eeaa729b13527924b13dc4dfd8264c93535ae8401d8d812c8a5f329dce2ce",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "d1b2c9383940c8efebcf61cb3ad20bd1e0926d7a6d927b90ca7f31bf23756df3",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "a109ab13c65108d0f2a045a25fd47495c0c20fe3a1e06964a701bec1dc002806",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "a6a20d36739bbebc6fdc39e9ae7fc150efa06b2f8638a7f4795fdde3b714ffd9",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "0e6a0dda6d54291452adeb1d7515cc8edad2705807d5a0343340ce7122cef8b1",
+        "mb_threat": "FormBook",
+        "file_type": "vbs",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "41f15692bdc648a75ada7c9df6a0542a40e2c050f846539b52eeac8035c5af5c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "bade048fe2950223aa3d8d6ba376433e8e8040384a831c04345e657c70f30190",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "a4e9930a173791aa52e40ad423d7888d41112ad28897e51a229bdd9a229f514e",
+        "mb_threat": "FormBook",
+        "file_type": "zip",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "fdb5302d39e0cb68ec1c9f883f6155dfa7e0b4dac120e3796eff1e50b9af418e",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "fdfac85d4b1e626b1ef7645afd5ddc84ed619d705a9b87b6d8e3560fa295a57e",
+        "mb_threat": "bat",
+        "file_type": "bat",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "172d478c04c29843e4f5372957380e4d1ff043bbc4e0058c885fd8ea5b45466f",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "4d2d2c6efbb042ae0af1b79c8cc52237998ec70df56afd418abbacc48d9d3395",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "8e59fd060314be874b16a85af69bac2ca32bb8570698d635d33aa18c9b0d558a",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "7425f75e57727ed43ef7c9cc4a646234736b2151641a51ada14db20152f2ccbe",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "fbc524a328c9c20ff38c0429ec794110a69a40ff6c6aa0e3ce3cd2404b656076",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "efd00cb99be98e761546c2c362cd5d01502fb036dbeb64679fb7d41e8d1da1dd",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "c58d6894e0e50885d3ec4f98cf7d5d3d84183868e022584464b7acd2943be11d",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "dad74126f5f39c601f7bb6c96dde1ab1719bf1af1a680323d7464cbcfc23c9b1",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "0736f9fef6e924f985231d52de2f37dcd16fad0ce814d152248628a18d632d02",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "caeaeb52d49625b3520daf30309058d90c85c68741124b60a1a6eb86e201ff4d",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "1bc5f2d3c8d9ff144f16a61e4019689ebd77097ca6ac91f86ad1184275d301d6",
+        "mb_threat": "FormBook",
+        "file_type": "js",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "1bf4da9fe2cdc30b7e9edd59f62337ea575840216c85ae0b5e59ea7ce5abb145",
+        "mb_threat": "FormBook",
+        "file_type": "vbs",
+        "signature": "Formbook",
+        "category": "stealer"
+    },
+    {
+        "hash": "ee61253c6a5f212eede4d9de08c9893a105f4aa3fd34c8ce8cc77f3138f46a46",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "f7ba63fe5b4afccc73038f16bc5e71d4fa9882150c1f0ac7a04dce0c4d2d17e7",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "4e7ba1ef999b09a32292bb33c8f3f4418280847aef878f5377b48daf7dde272c",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "fa0e32c5d508ed01948da56b930c4339019968b96fdc2c87ef9d5bc3a3e572fc",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "6001ce5f808cda3ca7ab33a6cb598a106a05c811607e3c7c631a6a67b2e913bf",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "3e9d504758ae48a0343d2abd920e712171726751e411f3be92bbe77222d79fcf",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "f0757f9b971d1ccfa215a48ee8f95647e87809603f153e5cc43ffc1fc9b4f078",
+        "mb_threat": "exe",
+        "file_type": "exe",
+        "signature": "Formbook",
+        "category": "unknown"
+    },
+    {
+        "hash": "99f9f9125484b63c3abd922c0cdbad4ee8b85366f5fcbc2b391379a2295a2701",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "bae9ebf2286071c5bc562644c8b056767705ee528e9fd52145db6adeec96c33a",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "b0ad5cd8051572ef9860d239e3b5997b61e66735c0e3c564809ae28f0b64ea5f",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "5f7826443471ded5ac06c757ca42e7ff69718f525d8fb44c05a441ec3adc81f1",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "b6d4adcf7a0771a4d088ed7b207bdbc293f31125d47883807d92b57ac1c4dce1",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "e342f64a53f09094060c6f7245f7b59d795623ea657ba03da6673189cf973908",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "75cde163fd6961d96e6621ebf7d78e4f72b45fd553c6d35f34fc8ac655f72735",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "380a95702aaea93a380f83f836ad1924c49dfa5fb6a0750c48cf595ccdaf12e1",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "33ec2d1e08678767613cc5f223090db4db6fcbb030c435138e8040462212ff88",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "915026e868b8251316c0fe1370acbd3c35f6b41cf956e184e9250cfd97fb2fd6",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "0295cdcd773395a045c54f3f928a0556b6615861cf1bc92f1e16bd72e083ec11",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "70530aa73b1ecc545d13cfd5cfcfa292b74b0c90bd26c8a2f222ae74787f4ded",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "f737f538067803e2ec225595240927a0fb61268a16d3af759c1372487f3ff183",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "f763fbeb6f8ea2104445b74b4e8cc716432734540a8713f88e6b72355f1ea66f",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "0cff6553d509c2fa0c702a03676e54ecd6e5b7e4bfd0129773aa766f62137554",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "e915b6faa6312efaaf75ac54c3c6cb25b88d80ecb4573c8e618084754d35f374",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "37a79153d2ff85fdb654c65b12c77fcf8c86272eb2fbc12e39c14fcf50fccd72",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "9b1a2978fb28291e4207a95f4fcb6bc6a17be24cacdadaa77cd08510d891603f",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "127d3a14a5ccbd1ab15fd2ecaff4b6e8afc07d4fc2fdecccfba1eadf21199753",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "0e1f71b3cdea7287a64116c7ad1f6723515a6faa89b4b7fa71e6ec97bfe49904",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "2dbaf959730bab3620d3cdb6bf94f94514999d65f3c9fc4c87335d70b4038e2b",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "fa771a3d8efc8ab43f57da0168f15d87ffcdfd20405e54b3d2f00712163fd743",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "34b908a49217d149c44a459a06706cfcb0b73ff85b5b3294166d93c2b1b24aba",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "fb2c41862c6efde565a4e73662ac3b0272d17c61e210313de43d336c759cd5d8",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "782ac2164a0d23b4e60c03c5f9722d52c7271b0a5531aa2b108463cf92507a67",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "eba6c85e9ad11c6457780c7edfd5cc5807d8b88d0edb76866fd39540c4678361",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "99ef1d7248d7c0cd7ce3b10213a17336797951c4b1cef0a4c1d03330e4c95a5a",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "924c06f3a68487435bd8d7f70ac0e04cb0eb092da2c2d36d0aaeb82dc580cacc",
+        "mb_threat": "209-54-102-132",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "unknown"
+    },
+    {
+        "hash": "0a1af1e621000d0ccc250f739145e472834dbce4d612f7b1b3c6671c0e143fb4",
+        "mb_threat": "209-54-102-132",
+        "file_type": "ps1",
+        "signature": "AgentTesla",
+        "category": "unknown"
+    },
+    {
+        "hash": "c062faec9abdfd6a969c9d4659e6717818e8816a70dc628fd4d49ff188f7102f",
+        "mb_threat": "209-54-102-132",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "unknown"
+    },
+    {
+        "hash": "48d875da8701a023b6025acebd223aaff452b1344a03ea3e1b44652efc0417ba",
+        "mb_threat": "209-54-102-132",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "unknown"
+    },
+    {
+        "hash": "37c51406ed63293526573160a67b76f9a276362eb208622116eade8aff05c6fb",
+        "mb_threat": "209-54-102-132",
+        "file_type": "tar",
+        "signature": "AgentTesla",
+        "category": "unknown"
+    },
+    {
+        "hash": "54486b9aa0838dabeeedde892feb01d3ebb4fe2fb51135c000f066e2039787db",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "6721891351a9aadcd1be105bbeacf147d9f1ceff2c26eb5f275cdcc946b03205",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "337e2b2a81e09ae37d00a94596d965c1a2782d5e5ad27704b8597d1d11a7a00f",
+        "mb_threat": "AgentTesla",
+        "file_type": "vbe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "fd1099c9c63990a00e80267f40e581c6caf3d17b378d11238cd0651e1a539bbc",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "93ad5a566183b2a6bc4dca196d71f6746b4b1f9dc450630f1451b56ffbca3326",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "a29f7631c2595e844ed8d89fb35924227bbe40cd5ac66cb519e914c59890bceb",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "36865b07f6cbdb39fcd554db54b7df7d7023520449366af899a353192e8add0b",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "15b1b34eaeee9443647ea07147e09b497c0d5082de8b0b5eca417909e27bb0a9",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "b648c7224ac754c0c54788d8cd5b9ac2cc6ef73b66ba4ec16ecd0abdf7de19ec",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "9adf0db3911c192e47f22fc12c00c00e4ce51a3ba1d0d2268f5ba65f3142186a",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "f5df30356e96faf9cd78beb315949553bc8956c13298a0633c821ff4fa4caa9e",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "d449c0781e861b000fd6d83ca34cc723711bdf859de6c7f73d35ad503c52c14a",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "90db11664472a0e20695f207cc3a262d41a344ada7e6dae11d051069c0986644",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "25f9e3f474b1a015cd410af97f32780ded388bb2cc4476c7f879f4d4309fa1ec",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "7b7bc72a8a947916d4d51faa6ba3a041c3f26df6aa4b8939ba466400f171779b",
+        "mb_threat": "AgentTesla",
+        "file_type": "exe",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "2d6c2f5c0122193732dbb6749994c5e6286e456545e012d47d4ec7f4d5abe7ce",
+        "mb_threat": "AgentTesla",
+        "file_type": "js",
+        "signature": "AgentTesla",
+        "category": "trojan"
+    },
+    {
+        "hash": "a9782edad95022f6d93c31d76ab364b92423f633779ecce20fd4900d65725691",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "MicroStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "ab43ea53d30e98d96c7738112fa92f6dc109918a4318d07473da1bb6d9a75f28",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "1d0135c28d1040f113d86669d4fc7069a423fe4867f00637f62843d24399bd33",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "f56d4963698a9d8490a1b736089ca0e7694c3b17a5ee4357c2eb33fe4e623a7e",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "f59fc31bf08083dcb75f94935ef3810371fcd76c15828fd41dbe1240bfd9952b",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "36a47272f3b70411cd1430d467454feb4413250605b62b98a23cdbd931a696b6",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "22dc7b5460c050320680cd2164360acfc4f63964978bec1a82f66451dbcd0c82",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "65ea61a85e46bb44cb1576dbfd08783268adea26a4251d50cf85a922043d6c97",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "7f2e4b45ad072f284a1944947956fb78a6459f8b8b8a77bfa82550ada91dc30b",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "7f21d4fc92774e7541df31911a565b5593bb1ec244443be4a14b290258f672fb",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "MicroStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "1f4d77a8644408778c03df1a2504888eb585b1a6628c449ca3face600e0d8535",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ba7d9b8cd934038441ad8bb8879a4f4715d532ef3ead83e656491f8da2284f4d",
+        "mb_threat": "infostealer",
+        "file_type": "jar",
+        "signature": "MicroStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "58e760ac5e689c48fddfef56e98e088d95b19838c0d6a783777b3fcb0698cc01",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "783025823fbc883340141ba01354d3139c8abc44459609437dc8ce7c8affbbe7",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "38ea8738c8db55fd66acea43923f8892aaa7b637af607a7f96c94aead6a87fab",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "587263d7e6c9428dac519c4c9615284d017e697948f0efdeeb331bbf9dedf595",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "bddf17d6cb7ffa6155d6c43928a4c5f797160b28d5b4d8a0dc5fb8ec3692cc65",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "5aaf701b3827bf15180e02bdcaab94d8d71e380b2a76db398166c9c7c80f0145",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "MythStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "beb72a31c56c08ef8196abb2470217a12b2f174e2294e4127ce0ab7f3038cbbf",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "fd3cc838775e561688cc53ea92eb17b25557181797103324e2adee6793dee770",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "e03c5c98a9b3e82353fdb4e8e92464678b73cd933fb21e2c753697a916d4737e",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "2b66fbd1a5b5ef11919b1d979cbfaa8e1b203085ad1934ca11960106a8e94f84",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "413f3e927bdfd6e755dd6ae1c232e13eff8de5ae4756437060e1dfd5e0440a80",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b0c19fb043afddb209e0a9fa6dc031946c6b7e38f16abba430125009744fd966",
+        "mb_threat": "Adwind",
+        "file_type": "jar",
+        "signature": "Adwind",
+        "category": "unknown"
+    },
+    {
+        "hash": "5c9dd3b898e57b0266a54b4b865f4b90acc3193709a6dc79ef55c796320fb4d8",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "5f61ca45185c89bcc05f69018ff5e4275580ae32627fd63d460c697040bf2eee",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "a3d98b61bb0f409aaaf0d4f1d1029e35211ba6fbd6419082677a2d29ee7e403e",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b877b4a84f281a3833bcaf185ac92faae80dc0bba6840c8bd1fc2eb45deba6df",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1d95e2a07ce5f992d73596c3230e9dc1e0d4d52c466571f4ef79f4eecfee2f13",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b2b29b1445818fb7d4229d8a0744ce1743896afe03c4c96b34c2a9ab48813666",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "68d3e2668bed540e9ead5e0f8f064b7d700fa1c5b93c2e98e7da98a1de56e514",
+        "mb_threat": "fabric",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "2766f0eb3ad85b42d161759e689383ddb700abcb917401153a503dd4f8eeaf6c",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "26277ffc2f95f3a64e86e2f5424bbe430fe257be905dc39aab5534533e4cadf1",
+        "mb_threat": "dll",
+        "file_type": "jar",
+        "signature": "MicroStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "b0f10243c24725c55277d78e69c8689561adcc590570b0986e4f30eb295809fb",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "74f171cbe2fa053263d9a56854f875d16c650908b61dfa485e473731a6563e5d",
+        "mb_threat": "bambooware",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "20172c67c112e4ac1b793722d78dcbefc47e106ea5367c11e808967d1c5bbf2b",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "STRRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "55812940435d04a1df71f916ed4332c6f06f0802045a857abe46683c762e1fc9",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ec9c55b1bcf9cad762455619278cf7aaadd996de9d5c1a6178190b16373f472b",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9828b896e8e136814862e1bdce4ff41c15cb2789e17ea306911cb5974923ae7e",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "a387edb6b6a15023f56aa906dfc80241b1c819b999c24fc8805f8e88df6c43cf",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "SilentRaven",
+        "category": "unknown"
+    },
+    {
+        "hash": "91b765ec5ae1a0f61cdbbad038c859fe437d062db83af4deacbd694e57b05a6d",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "MicroStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "b423342e081c0b4ace357d426c0e9af45f54525edb0d29dac448dab3ce46de81",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "33c76a863943e86e970a5fab99f28cfb5abc2b00a781fd8517f0d6e8124587e6",
+        "mb_threat": "chamberopera-net",
+        "file_type": "jar",
+        "signature": "NetSupport",
+        "category": "unknown"
+    },
+    {
+        "hash": "b4df2a01354e8128c6e6b9d91995efc93481baf7e9eb9fe2f2d549fd08732e2f",
+        "mb_threat": "AsyncRAT",
+        "file_type": "jar",
+        "signature": "AsyncRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "210806a4a2e34b5197a8ede758653ac79d80c306611b0cbfa692188a4a53996d",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b76b3528888d1d83fe20f7cb6e155a8255752a128e68a47150b3ec13322a50a3",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c7147c5335f7c0c7221243d3d7e566eded3aa8b275331f3042df1155433b7bc9",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1d5bea0ae5facf0159f35ea0bead65369ceb83942cc7073cb459ff06c6f82f0b",
+        "mb_threat": "Adwind",
+        "file_type": "jar",
+        "signature": "Adwind",
+        "category": "unknown"
+    },
+    {
+        "hash": "7f4036181a616499b69b9d976e7b2a6073371ee742720bbcc0557cd51ef5034c",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "bb2bfc700c75a1ec8db3abe3dadc23f3d91d3b1a49266ddadf5086c18fb8cd52",
+        "mb_threat": "jar",
+        "file_type": "jar",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "204108aa3133bc549454fccbc2aa081b0e1f4d5964ad3a6d5c32a7c25c255af3",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "2826be47208d3ba6e58cff60c5af29d3572ea42c283644e437c1dd30238e4608",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "085b5ab05e4901301f0912d7fa5220e22c7f7421db47def1484022afff34ba85",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "ValleyRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "38c53277006fd3fc4c13e8542acffbef3da3ae84272b42a119429afff9dba93c",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "c67730156049d229b79d1d132a4c0f96a6573574f34bb825aed850cdfdf5930a",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "01342e9b54961e49b7ea484fa1980d9bc5080ef07081d2e518b74b2140254961",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "3e9e0fa581b930881c6b193c76f4a25a3ceb9c247c5b7e1e51b4309f86ba4b11",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "04c1b31dd4a4597d6059cba41618a126e0f1c9ea8691bc811d70bafb61326155",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "da4e0b6b5d8ab7ab3d527995e56acc5906b06e03200408e77cd41b1ce96b5461",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "3216b475687aabac89ff151cd84b4698f5b40cf3ea7c1922bf2bd1066d1a2317",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "be30ca153d627b54132cad9420327df85b3b75f094840a5948dbc26749683443",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "50d97d150ee4c6c2f3ddef9ab8b8c46de1423c14d4cb3977da19cd9ef0f113fd",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "e182459038a4e201ff0ba71268658db650d96a41007dc09958b69d1fdd704d0d",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "680abf327f61cfb48415e2ec9c2293cdee09cde4b30c4cefd3e3515262b59b5c",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "5f470721561861981a571e79e56a1887e29ea53fd0968e44740a8340d5b87ebc",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "39bfb391dadca8f2c376556968ba871da63c87e7a9b841119b67127974ab02a5",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "ea8133fbebc796c13a34cd3b772c76f18096f86a17a5d794345e27e765e95a65",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "93e8407fca72ac108dd2724066ee81041f3dc5be640b21a474743eabfc5f0b6c",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "a422f723d2f1d3aa1638c789f86b355366ac86d31d96f1816a7469d1256df6e8",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "9a7fb7b97b9a26d8239ea4f883a7dd0858ed65a9f234c0b9e0b6cc9c78fabfc5",
+        "mb_threat": "45-89-60-4",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "c896db3b9af6063123ce97105e063621e0f2f23615bc38e383bbf704e94863d3",
+        "mb_threat": "45-89-60-3",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "f70a9a17ab525ed38ac7b9abe7ce51cfacd8de8e459676507b6e0f7d3bfa6033",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "73c733f4e60a06f18635c259f067d9aff438ee177dc487b7dab884647c6f0dc9",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9a7713402574ce6bf71f7ff98785207c63d7bf921b36b62a2e2c2221dd4fd84f",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "1144433760a0683413a85da271bc37ff9f296ac287e722825f27577b529b9d27",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "ValleyRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "02197537fb6fae29232ead1da76e794c6e0397f99a7467a494abc6ea72903157",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6b51a17dca3211a3d72e7534977db4bb57c97940a22e8fa7e609a2350ca3c5b0",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "ValleyRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "4fb880109987bf2e51892088767948635938d6cbefce6fe3dcd1beea5990ef51",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "d5d2e638d6cd617f841aaf7ca7b044b66a9af30376040f72e9aa98a107174ed6",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "cbcfb02dc557d641001f04edc4edcdde905c795701c319ca07e78a361df94eed",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "f5203b23991dd33d78b66c8bdada860332481db7233b3f996fa6028b70522ef5",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "95a4d92719d30a0e8a19e2597ef3dfe4e3abf1d77e3acb4b963e69d8acae8889",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "7a962ca892378d8ec7c497954185aa757bb03ab268664a750c3499a8614beb43",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "a0c5980a740806844030dd395afeecb2039ad7bce2a7ed6f5abcbcce611a9f90",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "6000bf6cdcb7e79061f8081dd51556de68671656015d9fe43efd7b8645ced42e",
+        "mb_threat": "ACRStealer",
+        "file_type": "dll",
+        "signature": "ACRStealer",
+        "category": "stealer"
+    },
+    {
+        "hash": "fa61bf2cdef96ac5cb948e0f69863c4b23b1f509ad7ce5b9b8b811faca5cfba2",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "ValleyRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "1c4a7589d26c97c38d4f826242b6740b35441e43ddd7394d399dbf94ab868483",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "f867112deb0335e3a33464fe4e1737cc2176d5c118ce9fc7a5a0d45417035184",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "8ad02534c0fe3b48d6a675d7d4a85daa7cd628ec67ce2faa96705b2e0e3c7527",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "9a83277b81d52c9f7e8b1a89b9ecfb6413d2bae252156d4abc319ea0778c81a4",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "d7239d0ad1fafdca0efcb285819385a133fabe4a07366380265107eaa91b1773",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "59379c0a2518ed5be768560f343b6a3b46c6742caf08852b4ffd26ba9e43264b",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "ea03f37d8d6d532d7866364057feef953a8e58499ea8a2c9cc7afb461d271b3a",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "bdc84570a617fc622d87507206389549a502351684fd60787ea0a71ebaaf023c",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "5ac15f2d8aeec4ec57c71be5d7253fb13fc8113569ad3a46d0dd2c9887adc08f",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "78bb26158a9aaf09a34713e7d76aa94822c8a2d51e7395105210fd09ced20e6f",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "ee467c9fac778090c378fb779db9a5e002b5781c8e98ddbcfc5d578b969cf0cf",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "055717fc2c22caf9846594fb7189d5d58ab5465aef939f07bac408d2bc0b0e52",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "3d7615647f6bacb0969dbdfe812b5488ba96ba50eda4394c4741dfc314cec587",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "64e400e6cde02b341e315d382551b26937b6afbe6cfd972dd5b51022bac119d0",
+        "mb_threat": "dll",
+        "file_type": "dll",
+        "signature": "WannaCry",
+        "category": "unknown"
+    },
+    {
+        "hash": "c07739f375f698e85a1fcb67cbeefe6f3bfacb06e4346f431400d076c9317d28",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "8e4630490803b2a94b44ccc85605eee1120274b7dc206d1b164d1a44484ce094",
+        "mb_threat": "RemcosRAT",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "573fda1fd84bb5ba3fce19962a7da7a20c09cfae952c6c2c8340b9b352f943d1",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "914aecb71480dd7203134558f3a8282e613e9686e69515cd39b7c2c3f75ee57e",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "2d00f9db923b61dca9542aee2298ef87639480b770b1af48c86b156e33388425",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "6384a2dcc3583f81a71de8534d6af28076a28f22f930cfe4b95251c2b1e23d9b",
+        "mb_threat": "107-175-246-3",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "0ab17374c6c9b15bb191fff8168fdb1f14624b6fbd5836b9e1393fcf415e073b",
+        "mb_threat": "107-175-246-3",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "73106518b0be5e97d84c46482e1aa9c84ab2f7f4792d6b43d09c129410f4329b",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "4fb8b2fa2c8f4c234c2c82997a37bc48b65ba346efbbdb3f48c9d8e0f846ae07",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "4d1234a39a7de1e5632552b8894cbe83ad5796a496b5d78d5cf231610cfb1776",
+        "mb_threat": "APT28",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b61aa2f1079bff7a5a7d3ad6da5c914309319b050b1a88b9a1c702e2d26026c4",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "84379bc1903b7d32f76e375a7c5d07c6feec8daeeb0615c0281ac3448e2054b3",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "835734079549b6932e3512b705eb51e4b051622f81f3e541f1ed041c2fb8b813",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c981083adeffc84014fa8abf05234c8c179d30fd3582c316fc2631ce11189c01",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c7fd4c593fc6ccf31d39aee0d13cb287fbeb1c2a5917fb756e5fda0134da12fb",
+        "mb_threat": "RemcosRAT",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "321a8b2a992d1d0dc5cfefb14b4b0e4ec75d73a3e0e4c21bce21b8a46d6f7401",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "26b8ea7bb37f273ac6d64b175fcf3f97c247a4f6f89b3dd77c279acbf443867f",
+        "mb_threat": "APT36",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "1e8965b4d9ff13d9a71f702f1290f1caec9a3569870b9cb4dd39182fd33b758a",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "5df2f35be04bc465366f6e064f75783a033c35dc49c0f6bcaf91a965587337b8",
+        "mb_threat": "RemcosRAT",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "d9d30d39e500fe31054ac222142c0dc2343552ebe709297e085af5e4a4e09e28",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "5501dec4aed51de2c33ca105f5897cbb73f4d65e32b239877a30db918c7c2fea",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "f0dcf60e6c9286f16a87cb8711f76e1f6c8643483b2c5b0741a2824d7375d6e3",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "7558458b8c87d45007299a8a1e1af9c31627f20a7cc6b5d49e083c42249b1cc2",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "8fdd83cf4fe249630df9da5def1e79fd2c6e01c3e4f444996c73fc0c77da16d8",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "e24293d1cd4fb69c6e3cbc709a55d2339df7349fba447de2b755da678bfb42fe",
+        "mb_threat": "apt",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "a4b51abf49ed79024d44cb91205b233892e69b58b6a60c36c709f0037ee5b36e",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "9842a8bfa5f739186a1e755e8ebd03cfcfedc30cdeaf425cb2d633599846133e",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "818ce6d4783106f464ea36b948c76de53631164b37e2189f5a689deab76f4494",
+        "mb_threat": "RemcosRAT",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "trojan"
+    },
+    {
+        "hash": "d0f06f44c541a3d7e665e0cf7a9e4e3965a98af6ce84396de83acce7960ac55d",
+        "mb_threat": "PNGdllHunt",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "92e93fd4e2c4ac7dcd25d0ed43be2cb330e1b688803d3bbd6a811df2099d3e07",
+        "mb_threat": "bestgoodthingsforentiremylifewithbestwis-duckdns-org",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "3b77ad9aca70f8d722320218c8e6d6422409cda9f51e2b222e351d0125504260",
+        "mb_threat": "PNGdllHunt",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "2edae586dea8b030446cb55e2408e3620a272eb2a0158b31693703e2d8e33df3",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "0cc1c78cdd33e479ab80ea5403b669a5f36798fe3a2c804793ab110c26005ebb",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "ca99c4d3e0c7001078a9b8e261034ad55c4957f807eadf0ff1620e00dda125f3",
+        "mb_threat": "192-3-176-231",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "cad4c2a58e1d8cd6b05c1e71a168f90ec488d5d405b045e501f54b5fb38a6044",
+        "mb_threat": "192-3-176-231",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "70f3f1092e5df170c6522ea35ed1c1caa0b44b5914c332e04f4136f5d9d0513b",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "e113acf5df0303c2e1c59e52daee010c9a876f34811dbfecf21cba7f82ee12be",
+        "mb_threat": "Loda",
+        "file_type": "xls",
+        "signature": "Loda",
+        "category": "unknown"
+    },
+    {
+        "hash": "5c2f0ca1465c486d53c4e64fe11f234da2dd26bb2767e36a72d122729d8e2f07",
+        "mb_threat": "APT37",
+        "file_type": "xls",
+        "signature": "RokRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "fbd729b0e631c574a7296d9a6461cff10c4a53f7429eaf2b4841c0b7b0ac7d02",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "a0f1d5d0b561c148b366eb95c1c01de231d25de5862a6f7fba3bc9a5ea85a05a",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c70ecb9d4c530ca4379ad664e45529d6a795d9e5cd5b2e652d78ddf3523a5121",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "179312a53fd4c0a2a5878205afcd34b23383e39ccd447a46d226adb20c2834e6",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "7a62914abb015a41dcf5f7990e50f9f8277b09b2e0080750b1426ca6331808ec",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "652df9c24dcf0110dfcf26547cb1b60da7a52773c6959cb227e72dfdf3bd6e84",
+        "mb_threat": "CVE-2017-11882",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "b43fd53e89c28a5d2cd3c9ba8bc2c5581d8d24063507632d5df1d79b77592fd9",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "2723d3a34c974c8ed69d900f41242595439a3a67e90b7fae04d36469df61a1ca",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "152f1f128e778e1dad07ddf4b26449c2cb96102e5f02cfde60354dd72669e5d1",
+        "mb_threat": "Loda",
+        "file_type": "xls",
+        "signature": "Loda",
+        "category": "unknown"
+    },
+    {
+        "hash": "dc5041ab5507e06d08cfc02516eab7286b98e669596f20003494a1fd13d5b1fd",
+        "mb_threat": "107-174-33-21",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "3f9ccedc4f939e94a3b792083dea347a8415f96b60fc8a0267ca8e3a3404876f",
+        "mb_threat": "cve-2017-0199",
+        "file_type": "xls",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "249bc00ea0798f78768dfd233be2f1eef51dc2e8c86677bb87f6cef59eb14cc9",
+        "mb_threat": "xls",
+        "file_type": "xls",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "0f79989912572a24ba13baabb32b3fd084496271c51448d47b66fe1aedbf293c",
+        "mb_threat": "unknown",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "48109c33cf45749a7fdc2629a4c11d9afc59e5378a4a368e08b20f9dbfca7963",
+        "mb_threat": "unknown",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "302a9f9af9eda01fa968e300725a84252cb06c75f2066cd843222b64751a6956",
+        "mb_threat": "ConnectWise",
+        "file_type": "js",
+        "signature": "ConnectWise",
+        "category": "unknown"
+    },
+    {
+        "hash": "38531e1859cc2035fe0e9ffc9c865e9393c4ff9c08dcad2bcecd48afef82f8aa",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "XWorm",
+        "category": "unknown"
+    },
+    {
+        "hash": "8dcfc3264df4cb34f29f992dbcddb80813f6ca934fc817bab741554c5a347ad7",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "e2d2a26776466619bda41eadb5728cc12097c0c9839e60a2152254b895fdedf2",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c3b55713df418e6bfc1862a39c99d4ee3ec5e0921d773850647ed772b5d2b4ba",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "XWorm",
+        "category": "unknown"
+    },
+    {
+        "hash": "963fa01f52ae4f66b40d01a87c76a73eb6bb3d56154f7707ba2d4bac9465ee1d",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "861cd0a2cf1381db7a8c559169dd9dbc2a7186dae24b272b6f771d01ad89c1d6",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "f967f1baa92ba0c63589a0277e4675d8ef8d2aa4cefcb35b45f3138dcf1e9d13",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "f88d28cbfa74812d4bb276a9b2d18300a1e725dabca5cba1c4ad77719f1ffaeb",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "SnakeKeylogger",
+        "category": "unknown"
+    },
+    {
+        "hash": "f2e801bf11cd524207701871ab483f96074c4a87423abd89dc8569f850fd97c4",
+        "mb_threat": "geo",
+        "file_type": "js",
+        "signature": "PhantomStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "614e8c21bbb5cd0c128fa57f45910b2d76126aaa79046492115ff985fdbd8170",
+        "mb_threat": "FedEx",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "f38471805e8cc6ef3cadd43448797527f6c4a37526202a0033ace61ec717cf29",
+        "mb_threat": "BBVA",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "fabff45462b1094b3c155c56f061aec91be51072357d4a60bb1300945f9bf0b4",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "663c470421a43b880641026e8a36204f02249e669ca92c8f1b3fb216cd8306d0",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "PhantomStealer",
+        "category": "unknown"
+    },
+    {
+        "hash": "17473f1042a6c3a205e5c4609c15f0bbeb37c1b97ddca9a229d7b34e318223fe",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "f21ddb16b09b33214889cd3ebe718ecd108500d6c7d25a4b954f0a6bd3b1358a",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "3c144bd3da75361915fe15619f2af14ac7c309ac0d892a3fa1b8ca92e7571873",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "8f1873c264e43ac1235ff884a405b875105a2fc14908140d960fbb7be28faba5",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "XWorm",
+        "category": "unknown"
+    },
+    {
+        "hash": "d9a2553d9d3f2b8a0a9223e7042676e2400c5fa87737157220436934de3fe5b3",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "MassLogger",
+        "category": "unknown"
+    },
+    {
+        "hash": "3ff530b5f0a185bb9b6d656f863751de1fd874a63d1a7e8fc2f25b401a0e26f4",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "XWorm",
+        "category": "unknown"
+    },
+    {
+        "hash": "b89bc8bad5ac269240d796dab22990a8d730cb295532dff4b92bedf76d58615d",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "17b619799905d1d457ff7cc4cddc879a3bc60c044aaa7c6bb7cc67db1b93a6c0",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "73da400607e13546a9126409f06bdf025d8094c040a61588ff3959d083463d09",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "9a3915ee1e114333bd5bb354f7f304767160350cee80ab76108dd01a825b2872",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "451174e99957ee7e6af9375703bab82ee3f618a307b422236102b2f9587344d3",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "bb02896ba092bc2d5f8cfc61f8a282d3857416330523cf12f815d0c96954e4e4",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "de85c342ac6c0fe0c18cf02ff585bc1604fadb123c3a9bcd23a03adef7c00688",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "570693a6bd10e98ca7c67510f7da41e11ad6d055179c7a9f9bfdd9cf8a39ac78",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "RemcosRAT",
+        "category": "unknown"
+    },
+    {
+        "hash": "8527afaa07f56296bfd2274f13d8080aace43d58d8834b9b4f1f9da2c24cb7fb",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "6f718ca1091a8b79a4dfb66591082de848f60108d94a36768e5026c25e2b5c94",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "67fda7c1fdcf08765ffd026e1832a2fd4deb07894acc65043a32b3b15f1e9225",
+        "mb_threat": "js",
+        "file_type": "js",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "c8192cae2f6f67aa4ee7a029b1735545d4f2fdc33cc8ca3e804577747f0a09ba",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "456e84ced88ab5b7e0539a9a5025ee8bfcf618774924a12af8036f73db1deb80",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "3ad5fdc8e4f5e79353fefb680572564a1e1e89a523fb28487a35575b7673f983",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "c5a82588f803980398fd4419c0d4370ba74ae3a9de068baef5b5f413fa4a7546",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "872860e186e030b79c60683afbd1d6714aff97295241b85ce3c24ee2bfdb62f4",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "9e78ad4fdd6b1f2282459ad73c1b482ae152652558f1505c0147060819d3c9b5",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "408bd8864f88433101a6b47d001d6c6312e0a380dbb60d49f0ca9df8a9d5fe08",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "3d2a3e33b0d222b92a262eb38b836d2416dda335d23c18a3c6924a4da16893c7",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "9387fa1e8fe1a16d96e968e1ea261d9e487972e046dc183aca9abbcd1a3a63b7",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "f94c92c290b12e214ae57105c40fe05d89fdd3b625c18eeab40f4daefa55ebd5",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "be83bec3b82bf2eb08c9926a1e8d31dc4ba2a7e0d5e08de7700a9ec300b78ae3",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "104b23c56244946f13b005b2c10131377b3a1018c48dcb13d3399cced73bd1bf",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "7b920ee300713002d5efda920670ae0a8ddb21b0eed74ae370f1a6762749d40a",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "6474cb16360104c810ca64ef611a40f0f7e5c96e2538899e6d658b5c628965a1",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "0a5e69df99b3f50e722b5b3585a908ebf13f8905c321d3039cdece1e46ae5aeb",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "58c4461d1fc2d51c23a52c23c3d3d1bfec31689a97a9f92302ce6775684e13e7",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "7c331899da1e7ed68c39f25fdef0f697fb4c3e77808475aaeedd339bc5660124",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "675645d67ee6eadfc44657fd4c10e660496b13375b69e086cd4d9d5038239fa7",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Gafgyt",
+        "category": "unknown"
+    },
+    {
+        "hash": "76f0338622519a764eeea04c0ef8176aa3ffa35bae8d350bc7f358ff024f3d21",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Gafgyt",
+        "category": "unknown"
+    },
+    {
+        "hash": "930acf8cd72e3f5edfe5eee163e0e701708167bd72e20a5a1641648cf2078579",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "37e9291e1017e84a102d470870ee8c0a3e3bcc1f7eb896e67e968c58b379a498",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "905e0e98fa529395b6ccfeb38fefabb10913fecbc66f5d1d8097dfb34c0b724e",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "unknown",
+        "category": "unknown"
+    },
+    {
+        "hash": "dc33c6222faa55cb7e94b907eb02c330d2448fb594359e5b6db749dde9a4fc28",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "3b1a166cace1c6b13fadff877fc58c65c4adb1cd6576b00782e6cbe9d7c44f25",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "81ea772d178fc43be8403c9d50ce632fe5724f81bfc5fcec19d7caf076f98e24",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "443e0fb4269edd6774e177eea038da095b43427f97b8f58cba701b583e5591f5",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "8e66fb8f1abfced1af373c0d376c7b520ef185c70e9b740271ce12a05aea8719",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "eb95d8f05f8d56f7cf5fcd85407b012a10cc18592fd3a34c62afd4740ef081b7",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "20043bc60fff2c48c83683e8cda2f4c4190d6d0848ff0f36499f0f0a97d0fc08",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "eead2f8c3a455792b6a8f849972fee9f195c25fc5fb500ee360fe91c2ec1f86d",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "c413638dd2defa038030cf4e607bba5a0a33f4f16df274d96a6c799f82e28cb5",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "9ab18357f6d7310c37f8a1a48941fffbdedb7376083eb41703cd8692701ed210",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "d01d522820f0dfa90c42778ba2ca73687317598efaf8023eabd4f34fa86809c2",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "ed5002a5a272fc0e10e8f90470ea9c96231623c8a412a13994450d0e5426224e",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "14a0b845ea687cd69b400ca8aabbd1f0dea6d42db30ccc0eed2e815b4a18b8a0",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "2e1b0f95f23486b88ea692c4b532e80dc29bd74bc1a516b15a4500324fb99f55",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "a346a36145e24157503037fa72f43c0e094bf69402132633f38c7e277348249f",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "add2bfd7477e846b561bfd448f051ab1e7fcfc5a9f31fb5fdb7d793db1c5dbaf",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "8d385e7b91c3cdd6c17a071f238602d4837d5deed5f213f93d02c15674367a10",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "d6e0c5f65d7f33c1ff0b777c9c261ceb9f513db3914511171b5fb4ada52d0feb",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "5627c8f9d689b5e7cd763e966b2457eabfaa501938d6e2df3cd0c149d13c36e8",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "415f061c5e10d19dbf808f21c51d4e8d2fcd7b589c435c93df4d0534dbbb5ce5",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "f13a49b2e52d20e6b79100f30fadd9b6dd57dd382da8a7e0898e08c1134a15e1",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "a38bf57c33a57aa26b58cf645b29273caa63b736f4011763d9b0c5a5346093d8",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "ae1b8f76ad72539f470e0ab85f14cb30adf2a8c6c1b3902e05c771118a8d33d0",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "03ad963eea94c31a01a79e26be253016c386e993ca092434b78fb9f5a70defbe",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "67fa431f7af1a927f7b570209f0c11b15414293ff83bcd6e61e1d45369f1d2c1",
+        "mb_threat": "elf",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "6e04f6522253e964351457140d39af83eb0371c38d02bf3710392ffd25078db7",
+        "mb_threat": "arm7",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "6a115305812bc468064e50e4795a0854ee2a11ba1980d6029d744e153cf7446b",
+        "mb_threat": "arm6",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
+    },
+    {
+        "hash": "86d8af01d4b2b7e5c2f400c1b6a1d0ab0b4d38e1419c7566a7eeed3d4433a2a9",
+        "mb_threat": "arm5",
+        "file_type": "elf",
+        "signature": "Mirai",
+        "category": "unknown"
     }
+
 ]
